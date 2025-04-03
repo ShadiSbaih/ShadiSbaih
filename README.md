@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **shadisbaih.dev@gmail.com**
 
-- 📄 Know about my experiences [Not Yet](Not Yet)
+- 📄 Know about my experiences @ my [Portfolio](https://shadisbaih.netlify.app)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
