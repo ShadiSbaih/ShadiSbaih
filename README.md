@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **MongoDB,Express.js,React with TypeScript,Node.js**
 
-- 👨‍💻 All of my projects are available at [Not Yet](Not Yet)
+- 👨‍💻 All of my projects are available at [Portfolio](https://shadisbaih.netlify.app)
 
-- 💬 Ask me about **React.js, Tailwind CSS**
+- 💬 Ask me about **React.js, Node.js**
 
 - 📫 How to reach me **shadisbaih.dev@gmail.com**
 
