@@ -3,6 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shadisbaih&label=Profile%20views&color=0e75b6&style=flat" alt="shadisbaih" /> </p>
 
+- 🎓 I have successfully completed all courses and received passing grades for a  [**Professional Certificate in Full Stack Developer**](https://credentials.edx.org/credentials/c0a9b5618c5d4dd7a8108b26af230bac),
+  a program offered by **IBM**
+
 - 🔭 I’m currently working on **Personal Blog**
 
 - 🌱 I’m currently learning **MongoDB,Express.js,React with TypeScript,Node.js**
