@@ -38,10 +38,18 @@ const shadi = {
 <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,sass,tailwind,bootstrap" />
 
 ### Backend Power ⚡
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,mysql,firebase" />
+<img src="https://skillicons.dev/icons?i=java,cs,nodejs,express,nestjs,mongodb,postgresql,mysql,firebase" />
 
 ### Mobile Development 📱
-<img src="https://skillicons.dev/icons?i=react,flutter,dart" />
+<img src="https://skillicons.dev/icons?i=,flutter,dart" />
+<img width="70" height="70" alt="image" src="https://github.com/user-attachments/assets/1ff92aae-a2e8-410f-abf2-c9198a0a4c93" />
+
+
+## Testing Frameworks 🧪
+<img src="https://skillicons.dev/icons?i=jest" />
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/211419af-4566-41d3-bd0c-7995fe3e593d" />
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/a99d18f4-db1c-4861-9ae1-7427de12f3a9" />
+
 
 ### Development Tools 🔧
 <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,azure,heroku,netlify,vercel" />
