@@ -1,4 +1,4 @@
-# 🚀 Hey there! I'm Shadi Sbaih
+#  Hey there! I'm Shadi Sbaih
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Mobile+App+Developer;Problem+Solver+%26+Code+Craftsman" alt="Typing SVG" />
@@ -13,7 +13,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 </div>
 
-## 🌟 About Me
+##  About Me
 
 ```typescript
 const shadi = {
@@ -41,7 +41,7 @@ const shadi = {
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,mysql,firebase" />
 
 ### Mobile Development 📱
-<img src="https://skillicons.dev/icons?i=reactnative,flutter,dart" />
+<img src="https://skillicons.dev/icons?i=react,flutter,dart" />
 
 ### Development Tools 🔧
 <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,azure,heroku,netlify,vercel" />
