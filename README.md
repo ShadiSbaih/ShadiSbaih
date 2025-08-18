@@ -1,30 +1,97 @@
-<h1 align="center">Hi 👋, I'm Shadi Sbaih</h1>
-<h3 align="center">A passionate full stack developer (MERN stack) from Palestine</h3>
+# 🚀 Hey there! I'm Shadi Sbaih
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shadisbaih&label=Profile%20views&color=0e75b6&style=flat" alt="shadisbaih" /> </p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Mobile+App+Developer;Problem+Solver+%26+Code+Craftsman" alt="Typing SVG" />
+  <div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+</div>
 
-- 🎓 I have successfully completed all courses and received passing grades for a  [**Professional Certificate in Full Stack Developer**](https://credentials.edx.org/credentials/c0a9b5618c5d4dd7a8108b26af230bac),
-  a program offered by **IBM**
+</div>
 
-- 🔭 I’m currently working on **Personal Blog**
 
-- 🌱 I’m currently learning **MongoDB,Express.js,React with TypeScript,Node.js**
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+</div>
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://shadisbaih.netlify.app)
+## 🌟 About Me
 
-- 💬 Ask me about **React.js, Node.js**
+```typescript
+const shadi = {
+  location: "Palestine 🇵🇸",
+  education: "IBM Professional Certificate - Full Stack Developer",
+  currentlyLearning: ["MongoDB", "Express.js", "React with TypeScript", "Node.js"],
+  specialties: ["MERN Stack", "Full Stack Development", "Mobile Apps"],
+  askMeAbout: ["React.js", "Node.js", "JavaScript", "TypeScript"],
+};
+```
 
-- 📫 How to reach me **shadisbaih.dev@gmail.com**
 
-- 📄 Know about my experiences @ my [Portfolio](https://shadisbaih.netlify.app)
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=shadisbaih&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="shadisbaih" />
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/shadi-sbaih" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shadi-sbaih" height="30" width="40" /></a>
-  <a href="https://fb.com/shadi.sbaih.18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shadi.sbaih.18" height="30" width="40" /></a>
-  <a href="https://instagram.com/i.shadi.s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i.shadi.s" height="30" width="40" /></a>
-</p>
+## 🛠️ Tech Stack & Tools
 
-<h3 align="left">Languages and Tools:</h3>
+<div align="center">
 
-<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="86" height="86" /><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="86" height="86" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="86" height="86" /><img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="86" height="86" /><img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="86" height="86" /<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="86" height="86" /><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="86" height="86" /></div>
+### Frontend Magic ✨
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,sass,tailwind,bootstrap" />
+
+### Backend Power ⚡
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,mysql,firebase" />
+
+### Mobile Development 📱
+<img src="https://skillicons.dev/icons?i=reactnative,flutter,dart" />
+
+### Development Tools 🔧
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,azure,heroku,netlify,vercel" />
+
+</div>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shadisbaih&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+
+
+## 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shadisbaih&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4" />
+</div>
+
+
+## 🎯 Current Goals
+
+- 🔭 Building scalable MERN stack applications
+- 📱 Expanding into mobile app development
+- 🌐 Contributing to open source projects
+- 📚 Mastering cloud technologies (AWS, Docker)
+- 🎨 Improving UI/UX design skills
+
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shadi-sbaih)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/shadi.sbaih.18)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/i.shadi.s)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://shadisbaih.netlify.app)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shadisbaih.dev@gmail.com)
+
+</div>
+
+<div align="center">
+  <h3>💫 "Code is like humor. When you have to explain it, it's bad." - Cory House</h3>
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+</div>
+<br/>
+
+<div align="center">
+  <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
+  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" />
+</div>
