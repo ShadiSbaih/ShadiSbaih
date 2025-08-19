@@ -49,6 +49,9 @@ const shadi = {
 <img src="https://skillicons.dev/icons?i=jest" />
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/211419af-4566-41d3-bd0c-7995fe3e593d" />
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/a99d18f4-db1c-4861-9ae1-7427de12f3a9" />
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/093d5301-8c76-4a4e-827d-3da1d326d58a" />
+
+
 
 
 ### Development Tools 🔧
