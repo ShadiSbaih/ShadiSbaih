@@ -38,7 +38,7 @@ const shadi = {
 <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,sass,tailwind,bootstrap,angular" />
 
 ### Backend Power ⚡
-<img src="https://skillicons.dev/icons?i=python,nodejs,express,nestjs,mongodb,postgresql,mysql,firebase,supabase" />
+<img src="https://skillicons.dev/icons?i=python,express,nestjs,mongodb,postgresql,mysql,firebase,supabase" />
 
 ### Mobile Development 📱
 <img src="https://skillicons.dev/icons?i=,flutter,dart" />
