@@ -35,7 +35,7 @@ const shadi = {
 <div align="center">
 
 ### Frontend Magic ✨
-<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,sass,tailwind,bootstrap,angular" />
+<img src="https://skillicons.dev/icons?i=html,css,sass,javascript,typescript,tailwind,bootstrap,react,nextjs,angular" />
 
 ### Backend Power ⚡
 <img src="https://skillicons.dev/icons?i=python,express,nestjs,mongodb,postgresql,mysql,firebase,supabase" />
