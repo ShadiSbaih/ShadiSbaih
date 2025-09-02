@@ -41,8 +41,12 @@ const shadi = {
 <img src="https://skillicons.dev/icons?i=python,express,nestjs,mongodb,postgresql,mysql,firebase,supabase" />
 
 ### Mobile Development 📱
-<img src="https://skillicons.dev/icons?i=,flutter,dart" />
+<img src="https://skillicons.dev/icons?i=,flutter" />
 <img width="70" height="70" alt="image" src="https://github.com/user-attachments/assets/1ff92aae-a2e8-410f-abf2-c9198a0a4c93" />
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/1a53982d-ece0-4eda-90ff-3410f5532fc9" />
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/719f51bd-e50d-493f-883b-9c9184fb219b" />
+
+
 
 
 ## Testing Frameworks 🧪
