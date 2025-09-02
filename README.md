@@ -64,6 +64,8 @@ const shadi = {
 
 ### Development Tools 🔧
 <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,azure,heroku,netlify,vercel" />
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/beda0d28-4a8a-4b56-abbd-49eb59de3a93" />
+
 
 </div>
 
