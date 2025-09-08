@@ -99,6 +99,8 @@ const shadi = {
 - 🏗️ Mastering system design & architecture (scalability, reliability, design patterns)  
 - 🚀 Exploring advanced architectures (microservices, serverless, CI/CD automation)  
 - 🧪 Strengthening QA practices (unit, integration, and end-to-end testing)  
+- 🎭 Improving UI/UX design expertise (user research, prototyping, usability testing)  
+
 
 
 
