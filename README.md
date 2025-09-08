@@ -90,11 +90,16 @@ const shadi = {
 
 ## 🎯 Current Goals
 
-- 🔭 Building scalable MERN stack applications
-- 📱 Expanding into mobile app development
-- 🌐 Contributing to open source projects
-- 📚 Mastering cloud technologies (AWS, Docker)
-- 🎨 Improving UI/UX design skills
+- 🔭 Building scalable MERN stack applications  
+- 📱 Expanding into mobile app development  
+- 🌐 Contributing to open source projects  
+- 📚 Mastering cloud technologies (AWS, Azure, Docker)  
+- 🎨 Improving UI/UX design skills  
+- ⚡ Optimizing backend performance & scalability  
+- 🛡️ Strengthening API security & authentication  
+- 🗄️ Advancing database design & optimization  
+- 🔄 Exploring microservices & serverless  
+- 🚀 Automating deployments with CI/CD  
 
 
 ## 🌐 Connect With Me
