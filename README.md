@@ -96,6 +96,7 @@ const shadi = {
 - 📚 Mastering cloud technologies (AWS, Azure, Docker)  
 - 🎨 Advancing frontend skills (modern frameworks, performance, accessibility & SEO)  
 - ⚡ Enhancing backend systems (performance, security, databases)  
+- 🏗️ Mastering system design & architecture (scalability, reliability, design patterns)  
 - 🚀 Exploring advanced architectures (microservices, serverless, CI/CD automation)  
 - 🧪 Strengthening QA practices (unit, integration, and end-to-end testing)  
 
