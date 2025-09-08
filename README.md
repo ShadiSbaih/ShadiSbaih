@@ -94,7 +94,7 @@ const shadi = {
 - 📱 Expanding into mobile app development  
 - 🌐 Contributing to open source projects  
 - 📚 Mastering cloud technologies (AWS, Azure, Docker)  
-- 🎨 Improving UI/UX design skills  
+- 🎨 Advancing frontend skills (modern frameworks, performance, accessibility & SEO)  
 - ⚡ Enhancing backend systems (performance, security, databases)  
 - 🚀 Exploring advanced architectures (microservices, serverless, CI/CD automation)  
 - 🧪 Strengthening QA practices (unit, integration, and end-to-end testing)  
