@@ -95,11 +95,10 @@ const shadi = {
 - 🌐 Contributing to open source projects  
 - 📚 Mastering cloud technologies (AWS, Azure, Docker)  
 - 🎨 Improving UI/UX design skills  
-- ⚡ Optimizing backend performance & scalability  
-- 🛡️ Strengthening API security & authentication  
-- 🗄️ Advancing database design & optimization  
-- 🔄 Exploring microservices & serverless  
-- 🚀 Automating deployments with CI/CD  
+- ⚡ Enhancing backend systems (performance, security, databases)  
+- 🚀 Exploring advanced architectures (microservices, serverless, CI/CD automation)  
+- 🧪 Strengthening QA practices (unit, integration, and end-to-end testing)  
+
 
 
 ## 🌐 Connect With Me
