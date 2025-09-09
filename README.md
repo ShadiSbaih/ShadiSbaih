@@ -40,7 +40,7 @@ const shadi = {
 ### Backend Power ⚡
 <img src="https://skillicons.dev/icons?i=python,express,nestjs,mongodb,postgresql,mysql,firebase,supabase" />
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/de72b61b-9ae8-46d7-a098-d73805bff4e4" />
-<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/9a1fb251-44b1-440c-8c4e-08a4fad68587" />
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/c18d5396-b46b-47d9-a872-e61f50ecd7f8" />
 
 
 
