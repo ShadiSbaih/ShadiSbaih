@@ -63,6 +63,7 @@ const shadi = {
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/b7d31a4e-7246-4438-a7dc-9ea6ba46dd19" />
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/10abaf4e-0977-4552-bc01-d4a226960c45" />
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/86f24640-ea67-4ac6-b934-95f9b6e14a0b" />
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/c74dfdf6-8a72-411f-832d-196734341c33" />
 
 ---
 
