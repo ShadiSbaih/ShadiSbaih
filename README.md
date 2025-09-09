@@ -29,7 +29,6 @@ const shadi = {
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=shadisbaih&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="shadisbaih" />
 </div>
-
 ## 🛠️ Tech Stack & Tools
 
 <div align="center">
@@ -39,7 +38,14 @@ const shadi = {
 <img width="45" height="45" alt="image" src="https://github.com/user-attachments/assets/a9954bc5-9c1a-4cef-ba52-171e5414b929" />
 <img width="45" height="45" alt="image" src="https://github.com/user-attachments/assets/3624a409-e69f-4249-a6b7-5ac5e194fefc" />
 
+---
 
+### Mobile Development 📱
+<img src="https://skillicons.dev/icons?i=,flutter" />
+<img width="70" height="70" alt="image" src="https://github.com/user-attachments/assets/1ff92aae-a2e8-410f-abf2-c9198a0a4c93" />
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/1a53982d-ece0-4eda-90ff-3410f5532fc9" />
+
+---
 
 ### Backend Power ⚡
 <img src="https://skillicons.dev/icons?i=python,express,nestjs,mongodb,postgresql,mysql,firebase,supabase" />
@@ -47,18 +53,9 @@ const shadi = {
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/c18d5396-b46b-47d9-a872-e61f50ecd7f8" />
 <img width="45" height="45" alt="image" src="https://github.com/user-attachments/assets/b02d093c-cf45-4e8a-a570-779a5162ad10" />
 
+---
 
-
-
-### Mobile Development 📱
-<img src="https://skillicons.dev/icons?i=,flutter" />
-<img width="70" height="70" alt="image" src="https://github.com/user-attachments/assets/1ff92aae-a2e8-410f-abf2-c9198a0a4c93" />
-<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/1a53982d-ece0-4eda-90ff-3410f5532fc9" />
-
-
-
-
-## Testing Frameworks 🧪
+### Testing Frameworks 🧪
 <img src="https://skillicons.dev/icons?i=jest" />
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/211419af-4566-41d3-bd0c-7995fe3e593d" />
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/a99d18f4-db1c-4861-9ae1-7427de12f3a9" />
@@ -67,9 +64,7 @@ const shadi = {
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/10abaf4e-0977-4552-bc01-d4a226960c45" />
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/86f24640-ea67-4ac6-b934-95f9b6e14a0b" />
 
-
-
-
+---
 
 ### Development Tools 🔧
 <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,azure,netlify,vercel" />
@@ -79,11 +74,8 @@ const shadi = {
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/845be38f-770c-4d42-bf4f-7e9fc0174deb" />
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/82066c35-a559-4d36-af11-b6b6436e6679" />
 
-
-
-
-
 </div>
+
 
 ## 📊 GitHub Analytics
 
