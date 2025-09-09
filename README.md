@@ -36,11 +36,17 @@ const shadi = {
 
 ### Frontend Magic ✨
 <img src="https://skillicons.dev/icons?i=html,css,sass,javascript,typescript,tailwind,bootstrap,react,nextjs,angular" />
+<img width="45" height="45" alt="image" src="https://github.com/user-attachments/assets/a9954bc5-9c1a-4cef-ba52-171e5414b929" />
+<img width="45" height="45" alt="image" src="https://github.com/user-attachments/assets/3624a409-e69f-4249-a6b7-5ac5e194fefc" />
+
+
 
 ### Backend Power ⚡
 <img src="https://skillicons.dev/icons?i=python,express,nestjs,mongodb,postgresql,mysql,firebase,supabase" />
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/de72b61b-9ae8-46d7-a098-d73805bff4e4" />
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/c18d5396-b46b-47d9-a872-e61f50ecd7f8" />
+<img width="45" height="45" alt="image" src="https://github.com/user-attachments/assets/b02d093c-cf45-4e8a-a570-779a5162ad10" />
+
 
 
 
