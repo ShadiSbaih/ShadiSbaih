@@ -36,9 +36,11 @@ const shadi = {
 
 ## 🎨 Frontend & UI
 <img src="https://skillicons.dev/icons?i=html,css,sass,javascript,typescript,tailwind,bootstrap,react,nextjs,angular,gulp" />  
-<img width="45" height="45" alt="Material UI" src="https://github.com/user-attachments/assets/a9954bc5-9c1a-4cef-ba52-171e5414b929" />  
-<img width="45" height="45" alt="Chakra UI" src="https://github.com/user-attachments/assets/3624a409-e69f-4249-a6b7-5ac5e194fefc" />  
-<img width="45" height="45" alt="image" src="https://github.com/user-attachments/assets/383093d5-f05a-4f7b-9e65-23acfe74e4ec" />
+<img width="45" height="45" alt="ShadCN" src="https://github.com/user-attachments/assets/a9954bc5-9c1a-4cef-ba52-171e5414b929" />  
+<img width="45" height="45" alt="Material UI" src="https://github.com/user-attachments/assets/3624a409-e69f-4249-a6b7-5ac5e194fefc" />  
+<img width="45" height="45" alt="Chakra UI" src="https://github.com/user-attachments/assets/383093d5-f05a-4f7b-9e65-23acfe74e4ec" />
+<img width="50" height="50" alt="TanStack" src="https://github.com/user-attachments/assets/7f46953b-5599-4728-89a7-ebad020057c5" />
+
 
 
 
