@@ -34,7 +34,7 @@ const shadi = {
 
 <div align="center">
 
-## 🎨 Frontend & UI
+### 🎨 Frontend & UI
 <img src="https://skillicons.dev/icons?i=html,css,sass,javascript,typescript,tailwind,bootstrap,react,nextjs,angular,gulp" />  
 <img width="45" height="45" alt="ShadCN" src="https://github.com/user-attachments/assets/a9954bc5-9c1a-4cef-ba52-171e5414b929" />  
 <img width="45" height="45" alt="Material UI" src="https://github.com/user-attachments/assets/3624a409-e69f-4249-a6b7-5ac5e194fefc" />  
@@ -44,14 +44,14 @@ const shadi = {
 
 
 
-## 📱 Mobile Development
+### 📱 Mobile Development
 <img src="https://skillicons.dev/icons?i=,flutter" />  
 <img width="70" height="70" alt="React Native" src="https://github.com/user-attachments/assets/1ff92aae-a2e8-410f-abf2-c9198a0a4c93" />  
 <img width="50" height="50" alt="Ionic" src="https://github.com/user-attachments/assets/1a53982d-ece0-4eda-90ff-3410f5532fc9" />  
 
 
 
-## ⚡ Backend & APIs
+### ⚡ Backend & APIs
 <img src="https://skillicons.dev/icons?i=django,flask,fastapi,express,nestjs,php" />  
 <img width="50" height="50" alt="Prisma" src="https://github.com/user-attachments/assets/de72b61b-9ae8-46d7-a098-d73805bff4e4" />  
 <img width="50" height="50" alt="tRPC" src="https://github.com/user-attachments/assets/c18d5396-b46b-47d9-a872-e61f50ecd7f8" />  
@@ -59,13 +59,13 @@ const shadi = {
 
 
 
-## 🗄️ Databases & Cloud Services
+### 🗄️ Databases & Cloud Services
 <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,firebase,supabase,aws" />  
 <img width="50" height="50" alt="cloudinary" src="https://github.com/user-attachments/assets/76cfa5c7-d8b0-4ba5-af25-52543f28cbb7" />
 
 
 
-## 🧪 Testing & QA
+### 🧪 Testing & QA
 <img src="https://skillicons.dev/icons?i=jest" />  
 <img width="50" height="50" alt="Selenium" src="https://github.com/user-attachments/assets/211419af-4566-41d3-bd0c-7995fe3e593d" />  
 <img width="50" height="50" alt="Playwright" src="https://github.com/user-attachments/assets/a99d18f4-db1c-4861-9ae1-7427de12f3a9" />  
@@ -78,7 +78,7 @@ const shadi = {
 
 
 
-## 🔧 DevOps & Tools
+### 🔧 DevOps & Tools
 <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,azure,netlify,vercel" />  
 <img width="50" height="50" alt="Postman" src="https://github.com/user-attachments/assets/a4fb4ce8-4956-4d75-b902-c6347a73bc77" />  
 <img width="50" height="50" alt="Insomnia" src="https://github.com/user-attachments/assets/ac3d7217-2345-46ea-a620-8223e9f79a4b" />  
