@@ -21,7 +21,7 @@ const shadi = {
   location: "Palestine 🇵🇸",
   education: "IBM Professional Certificate - Full Stack Developer",
   currentlyLearning: ["MongoDB", "Express.js", "React with TypeScript", "Node.js"],
-  specialties: ["MERN Stack", "Full Stack Development", "Mobile Apps"],
+  specialties: ["MERN Stack", "Full Stack Development", " Cross-Platform Mobile Apps"],
   askMeAbout: ["React.js", "Node.js", "JavaScript", "TypeScript"],
 };
 ```
