@@ -10,8 +10,13 @@
 </div>
 
 
+
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+</div>
+<br>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=shadisbaih&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="shadisbaih" />
 </div>
 
 ##  About Me
@@ -25,11 +30,13 @@ const shadi = {
   askMeAbout: ["React.js", "Node.js", "Express.js", "JavaScript", "TypeScript", "MySQL"],
 };
 ```
-🎓 Certificate: [IBM Professional Certificate - Full Stack Developer](https://credentials.edx.org/credentials/c0a9b5618c5d4dd7a8108b26af230bac/)
+### 🎓 Certificates
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=shadisbaih&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="shadisbaih" />
-</div>
+- [IBM Professional Certificate - Full Stack Developer](https://credentials.edx.org/credentials/c0a9b5618c5d4dd7a8108b26af230bac/)
+- [Google UX Design](https://www.coursera.org/account/accomplishments/specialization/certificate/EHPZ0FABDUTA)
+- [MERN Stack Front ToBack: Full Stack React, Redux & Node.js](https://www.coursera.org/account/accomplishments/specialization/certificate/BB2I7KQ68HCS)
+
+
 
 ## 🛠️ Tech Stack & Tools
 
