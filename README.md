@@ -30,13 +30,9 @@ const shadi = {
   askMeAbout: ["React.js", "Node.js", "Express.js", "JavaScript", "TypeScript", "MySQL"],
 };
 ```
-### 🎓 Certificates
-
-- [IBM Professional Certificate - Full Stack Developer](https://credentials.edx.org/credentials/c0a9b5618c5d4dd7a8108b26af230bac/)
-- [Google UX Design](https://www.coursera.org/account/accomplishments/specialization/certificate/EHPZ0FABDUTA)
-- [MERN Stack Front ToBack: Full Stack React, Redux & Node.js](https://www.coursera.org/account/accomplishments/specialization/certificate/BB2I7KQ68HCS)
 
 
+<br>
 
 ## 🛠️ Tech Stack & Tools
 
