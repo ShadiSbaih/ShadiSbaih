@@ -144,15 +144,15 @@ const shadi = {
  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
   
 
-### 📚 Daily Dev Quote
-<div style="display: flex; align-items: center; justify-content: center; gap: 10px;">
-  <!-- Quote Image -->
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote"/>
+## 📚 Daily Dev Quote
 
-  <!-- GIF -->
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="10%">
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Daily Dev Quote" width="600"/>
 </div>
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="60" height="60"/>
+</div>
 
 <br/>
 
