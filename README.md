@@ -50,7 +50,7 @@ const shadi = {
 
 
 ## ⚡ Backend & APIs
-<img src="https://skillicons.dev/icons?i=django,flask,express,nestjs,php" />  
+<img src="https://skillicons.dev/icons?i=django,flask,fastapi,express,nestjs,php" />  
 <img width="50" height="50" alt="Prisma" src="https://github.com/user-attachments/assets/de72b61b-9ae8-46d7-a098-d73805bff4e4" />  
 <img width="50" height="50" alt="tRPC" src="https://github.com/user-attachments/assets/c18d5396-b46b-47d9-a872-e61f50ecd7f8" />  
 <img width="45" height="45" alt="Appwrite" src="https://github.com/user-attachments/assets/b02d093c-cf45-4e8a-a570-779a5162ad10" />  
