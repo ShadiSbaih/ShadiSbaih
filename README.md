@@ -84,21 +84,29 @@ const shadi = {
 <img width="50" height="50" alt="Jira" src="https://github.com/user-attachments/assets/82066c35-a559-4d36-af11-b6b6436e6679" />  
 
 
-
 </div>
 
 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shadisbaih&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shadisbaih&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=1a1b27" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shadisbaih&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=1a1b27"/>
+</div>
+
+<!-- GitHub Streak Stats -->
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shadisbaih&theme=tokyonight&hide_border=true&background=1a1b27" width="600"/>
 </div>
 
 
 ## 🏆 GitHub Trophies
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=shadisbaih&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4" />
-</div>
+</div
+
+
+---
 
 
 ## 🎯 Current Goals
@@ -120,7 +128,8 @@ const shadi = {
 ## 🌐 Connect With Me
 
 <div align="center">
-
+  
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=5865F2)](https://discord.gg/shadi.sbaih)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shadi-sbaih)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/shadi.sbaih.18)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/i.shadi.s)
@@ -129,13 +138,19 @@ const shadi = {
 
 </div>
 
-<div align="center">
-  <h3>💫 "Code is like humor. When you have to explain it, it's bad." - Cory House</h3>
+ <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+  
+
+### 📚 Daily Dev Quote
+<div style="display: flex; align-items: center; justify-content: center; gap: 10px;">
+  <!-- Quote Image -->
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote"/>
+
+  <!-- GIF -->
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="10%">
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
-</div>
+
 <br/>
 
 <div align="center">
