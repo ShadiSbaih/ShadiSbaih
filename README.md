@@ -18,14 +18,14 @@
 
 ```typescript
 const shadi = {
-  location: "Palestine 🇵🇸",
-  education: "IBM Professional Certificate - Full Stack Developer",
-  currentlyLearning: ["MongoDB", "Express.js", "React with TypeScript", "Node.js"],
-  specialties: ["MERN Stack", "Full Stack Development", " Cross-Platform Mobile Apps"],
-  askMeAbout: ["React.js", "Node.js", "JavaScript", "TypeScript"],
+  location: "Palestine ",
+  education: "Bachelor of Computer Science @ PTUK",
+  currentlyLearning: ["MongoDB", "PostgreSQL", "Nest.js", "React with TypeScript", "Next.js"],
+  specialties: ["MERN Stack", "Full Stack Development", "Cross-Platform Mobile Apps"],
+  askMeAbout: ["React.js", "Node.js", "Express.js", "JavaScript", "TypeScript", "MySQL"],
 };
 ```
-
+🎓 Certificate: [IBM Professional Certificate - Full Stack Developer](https://credentials.edx.org/credentials/c0a9b5618c5d4dd7a8108b26af230bac/)
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=shadisbaih&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="shadisbaih" />
