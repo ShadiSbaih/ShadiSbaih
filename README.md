@@ -86,7 +86,7 @@ const shadi = {
 
 ### 🔧 DevOps & Tools
 <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,azure,netlify,vercel,figma" />  
-<img width="50" height="50" alt="jira" src="https://github.com/user-attachments/assets/a4fb4ce8-4956-4d75-b902-c6347a73bc77" />  
+<img width="45" height="45" alt="jira" src="https://github.com/user-attachments/assets/a4fb4ce8-4956-4d75-b902-c6347a73bc77" />  
 <img width="50" height="50" alt="storybook" src="https://github.com/user-attachments/assets/ac3d7217-2345-46ea-a620-8223e9f79a4b" />  
 <img width="50" height="50" alt="claude" src="https://github.com/user-attachments/assets/beda0d28-4a8a-4b56-abbd-49eb59de3a93" />  
 <img width="50" height="50" alt="android studio" src="https://github.com/user-attachments/assets/82066c35-a559-4d36-af11-b6b6436e6679" />  
