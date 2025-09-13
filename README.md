@@ -39,7 +39,7 @@ const shadi = {
 <div align="center">
 
 ### 🎨 Frontend & UI
-<img src="https://skillicons.dev/icons?i=html,css,sass,javascript,typescript,tailwind,bootstrap,react,nextjs,angular,gulp" />  
+<img src="https://skillicons.dev/icons?i=html,css,sass,javascript,typescript,tailwind,react,nextjs,angular,gulp" />  
 <img width="45" height="45" alt="ShadCN" src="https://github.com/user-attachments/assets/a9954bc5-9c1a-4cef-ba52-171e5414b929" />  
 <img width="45" height="45" alt="Material UI" src="https://github.com/user-attachments/assets/3624a409-e69f-4249-a6b7-5ac5e194fefc" />  
 <img width="45" height="45" alt="Chakra UI" src="https://github.com/user-attachments/assets/383093d5-f05a-4f7b-9e65-23acfe74e4ec" />
@@ -56,41 +56,43 @@ const shadi = {
 
 
 ### ⚡ Backend & APIs
-<img src="https://skillicons.dev/icons?i=django,flask,fastapi,express,nestjs,php" />  
-<img width="50" height="50" alt="Prisma" src="https://github.com/user-attachments/assets/de72b61b-9ae8-46d7-a098-d73805bff4e4" />  
-<img width="50" height="50" alt="tRPC" src="https://github.com/user-attachments/assets/c18d5396-b46b-47d9-a872-e61f50ecd7f8" />  
-<img width="45" height="45" alt="Appwrite" src="https://github.com/user-attachments/assets/b02d093c-cf45-4e8a-a570-779a5162ad10" />  
+<img src="https://skillicons.dev/icons?i=django,flask,fastapi,express,nestjs" />  
+<img width="50" height="50" alt="Strapi" src="https://github.com/user-attachments/assets/de72b61b-9ae8-46d7-a098-d73805bff4e4" />  
+<img width="50" height="50" alt="Prisma" src="https://github.com/user-attachments/assets/c18d5396-b46b-47d9-a872-e61f50ecd7f8" />  
+<img width="45" height="45" alt="NeonDB" src="https://github.com/user-attachments/assets/b02d093c-cf45-4e8a-a570-779a5162ad10" />  
+<img width="50" height="50" alt="QraphQl" src="https://github.com/user-attachments/assets/9c39cade-3689-48a6-bd6f-ca4c42003a66" />
+
 
 
 
 ### 🗄️ Databases & Cloud Services
 <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,firebase,supabase,aws" />  
 <img width="50" height="50" alt="cloudinary" src="https://github.com/user-attachments/assets/76cfa5c7-d8b0-4ba5-af25-52543f28cbb7" />
-<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/bee48256-7988-4ee3-93b7-e7bdba861852" />
+<img width="50" height="50" alt="neo4j" src="https://github.com/user-attachments/assets/bee48256-7988-4ee3-93b7-e7bdba861852" />
 
 
 
 
 ### 🧪 Testing & QA
 <img src="https://skillicons.dev/icons?i=jest" />  
-<img width="50" height="50" alt="Selenium" src="https://github.com/user-attachments/assets/211419af-4566-41d3-bd0c-7995fe3e593d" />  
-<img width="50" height="50" alt="Playwright" src="https://github.com/user-attachments/assets/a99d18f4-db1c-4861-9ae1-7427de12f3a9" />  
-<img width="50" height="50" alt="Mocha" src="https://github.com/user-attachments/assets/093d5301-8c76-4a4e-827d-3da1d326d58a" />  
-<img width="50" height="50" alt="Cypress" src="https://github.com/user-attachments/assets/b7d31a4e-7246-4438-a7dc-9ea6ba46dd19" />  
-<img width="50" height="50" alt="Puppeteer" src="https://github.com/user-attachments/assets/10abaf4e-0977-4552-bc01-d4a226960c45" />  
-<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/8438f634-1c89-4d8c-b6b9-a16e6bb17027" />
-<img width="50" height="50" alt="Vitest" src="https://github.com/user-attachments/assets/86f24640-ea67-4ac6-b934-95f9b6e14a0b" />  
-<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/c74dfdf6-8a72-411f-832d-196734341c33" />
+<img width="50" height="50" alt="Jasmine" src="https://github.com/user-attachments/assets/211419af-4566-41d3-bd0c-7995fe3e593d" />  
+<img width="50" height="50" alt="Selenium" src="https://github.com/user-attachments/assets/a99d18f4-db1c-4861-9ae1-7427de12f3a9" />  
+<img width="50" height="50" alt="MSW" src="https://github.com/user-attachments/assets/093d5301-8c76-4a4e-827d-3da1d326d58a" />  
+<img width="50" height="50" alt="Mocha" src="https://github.com/user-attachments/assets/b7d31a4e-7246-4438-a7dc-9ea6ba46dd19" />  
+<img width="50" height="50" alt="Cypress" src="https://github.com/user-attachments/assets/10abaf4e-0977-4552-bc01-d4a226960c45" />  
+<img width="50" height="50" alt="super test" src="https://github.com/user-attachments/assets/8438f634-1c89-4d8c-b6b9-a16e6bb17027" />
+<img width="50" height="50" alt="test libray" src="https://github.com/user-attachments/assets/86f24640-ea67-4ac6-b934-95f9b6e14a0b" />  
+<img width="50" height="50" alt="Postman" src="https://github.com/user-attachments/assets/c74dfdf6-8a72-411f-832d-196734341c33" />
 
 
 
 ### 🔧 DevOps & Tools
 <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,azure,netlify,vercel" />  
-<img width="50" height="50" alt="Postman" src="https://github.com/user-attachments/assets/a4fb4ce8-4956-4d75-b902-c6347a73bc77" />  
-<img width="50" height="50" alt="Insomnia" src="https://github.com/user-attachments/assets/ac3d7217-2345-46ea-a620-8223e9f79a4b" />  
-<img width="50" height="50" alt="Slack" src="https://github.com/user-attachments/assets/beda0d28-4a8a-4b56-abbd-49eb59de3a93" />  
-<img width="50" height="50" alt="Notion" src="https://github.com/user-attachments/assets/845be38f-770c-4d42-bf4f-7e9fc0174deb" />  
-<img width="50" height="50" alt="Jira" src="https://github.com/user-attachments/assets/82066c35-a559-4d36-af11-b6b6436e6679" />  
+<img width="50" height="50" alt="jira" src="https://github.com/user-attachments/assets/a4fb4ce8-4956-4d75-b902-c6347a73bc77" />  
+<img width="50" height="50" alt="storybook" src="https://github.com/user-attachments/assets/ac3d7217-2345-46ea-a620-8223e9f79a4b" />  
+<img width="50" height="50" alt="claude" src="https://github.com/user-attachments/assets/beda0d28-4a8a-4b56-abbd-49eb59de3a93" />  
+<img width="50" height="50" alt="figma" src="https://github.com/user-attachments/assets/845be38f-770c-4d42-bf4f-7e9fc0174deb" />  
+<img width="50" height="50" alt="android studio" src="https://github.com/user-attachments/assets/82066c35-a559-4d36-af11-b6b6436e6679" />  
 
 
 </div>
