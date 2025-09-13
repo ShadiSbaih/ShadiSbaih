@@ -66,6 +66,8 @@ const shadi = {
 ### 🗄️ Databases & Cloud Services
 <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,firebase,supabase,aws" />  
 <img width="50" height="50" alt="cloudinary" src="https://github.com/user-attachments/assets/76cfa5c7-d8b0-4ba5-af25-52543f28cbb7" />
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/bee48256-7988-4ee3-93b7-e7bdba861852" />
+
 
 
 
