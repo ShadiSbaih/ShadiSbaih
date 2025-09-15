@@ -80,12 +80,14 @@ const shadi = {
 ### 🧪 Testing & QA
 <img src="https://skillicons.dev/icons?i=postman,jest" />  
 <img width="50" height="50" alt="Jasmine" src="https://github.com/user-attachments/assets/211419af-4566-41d3-bd0c-7995fe3e593d" />  
-<img width="50" height="50" alt="Selenium" src="https://github.com/user-attachments/assets/a99d18f4-db1c-4861-9ae1-7427de12f3a9" />  
+<img width="45" height="45" alt="Selenium" src="https://github.com/user-attachments/assets/a99d18f4-db1c-4861-9ae1-7427de12f3a9" />  
 <img width="50" height="50" alt="MSW" src="https://github.com/user-attachments/assets/093d5301-8c76-4a4e-827d-3da1d326d58a" />  
 <img width="50" height="50" alt="Mocha" src="https://github.com/user-attachments/assets/b7d31a4e-7246-4438-a7dc-9ea6ba46dd19" />  
 <img width="50" height="50" alt="Cypress" src="https://github.com/user-attachments/assets/10abaf4e-0977-4552-bc01-d4a226960c45" />  
 <img width="50" height="50" alt="super test" src="https://github.com/user-attachments/assets/8438f634-1c89-4d8c-b6b9-a16e6bb17027" />
 <img width="50" height="50" alt="test libray" src="https://github.com/user-attachments/assets/86f24640-ea67-4ac6-b934-95f9b6e14a0b" />  
+<img width="50" height="50" alt="playwright" src="https://github.com/user-attachments/assets/15678136-b846-4df4-9cbd-36a6d852f172" />
+
 
 
 
