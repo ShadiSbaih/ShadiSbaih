@@ -97,6 +97,10 @@ const shadi = {
 <img width="50" height="50" alt="storybook" src="https://github.com/user-attachments/assets/ac3d7217-2345-46ea-a620-8223e9f79a4b" />  
 <img width="50" height="50" alt="claude" src="https://github.com/user-attachments/assets/beda0d28-4a8a-4b56-abbd-49eb59de3a93" />  
 <img width="50" height="50" alt="android studio" src="https://github.com/user-attachments/assets/82066c35-a559-4d36-af11-b6b6436e6679" />  
+<img width="50" height="50" alt="linear " src="https://github.com/user-attachments/assets/49909429-909f-4931-ba6c-c2b6d8c25554" />
+<img width="50" height="50" alt="excalidraw " src="https://github.com/user-attachments/assets/a511511f-a6d1-420a-ae0d-c83a62b1010b" />
+
+
 
 
 </div>
