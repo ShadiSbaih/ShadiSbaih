@@ -87,6 +87,9 @@ const shadi = {
 <img width="50" height="50" alt="super test" src="https://github.com/user-attachments/assets/8438f634-1c89-4d8c-b6b9-a16e6bb17027" />
 <img width="50" height="50" alt="test libray" src="https://github.com/user-attachments/assets/86f24640-ea67-4ac6-b934-95f9b6e14a0b" />  
 <img width="50" height="50" alt="playwright" src="https://github.com/user-attachments/assets/15678136-b846-4df4-9cbd-36a6d852f172" />
+<img width="50" height="50" alt="vitest" src="https://github.com/user-attachments/assets/4a4b760d-58e7-4c9a-98b2-d7d3a9927ae9" />
+<img width="50" height="50" alt="storybook" src="https://github.com/user-attachments/assets/ac3d7217-2345-46ea-a620-8223e9f79a4b" />  
+
 
 
 
@@ -94,7 +97,6 @@ const shadi = {
 ### 🔧 DevOps & Tools
 <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,azure,netlify,vercel,figma" />  
 <img width="45" height="45" alt="jira" src="https://github.com/user-attachments/assets/a4fb4ce8-4956-4d75-b902-c6347a73bc77" />  
-<img width="50" height="50" alt="storybook" src="https://github.com/user-attachments/assets/ac3d7217-2345-46ea-a620-8223e9f79a4b" />  
 <img width="50" height="50" alt="claude" src="https://github.com/user-attachments/assets/beda0d28-4a8a-4b56-abbd-49eb59de3a93" />  
 <img width="50" height="50" alt="android studio" src="https://github.com/user-attachments/assets/82066c35-a559-4d36-af11-b6b6436e6679" />  
 <img width="50" height="50" alt="linear " src="https://github.com/user-attachments/assets/49909429-909f-4931-ba6c-c2b6d8c25554" />
