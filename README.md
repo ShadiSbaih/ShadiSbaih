@@ -89,6 +89,8 @@ const shadi = {
 <img width="50" height="50" alt="playwright" src="https://github.com/user-attachments/assets/15678136-b846-4df4-9cbd-36a6d852f172" />
 <img width="50" height="50" alt="vitest" src="https://github.com/user-attachments/assets/4a4b760d-58e7-4c9a-98b2-d7d3a9927ae9" />
 <img width="50" height="50" alt="storybook" src="https://github.com/user-attachments/assets/ac3d7217-2345-46ea-a620-8223e9f79a4b" />  
+<img width="50" height="50" alt="browserstack " src="https://github.com/user-attachments/assets/f36ca215-26ac-4603-a913-80f67761b9df" />
+
 
 
 
