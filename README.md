@@ -103,6 +103,8 @@ const shadi = {
 <img width="50" height="50" alt="android studio" src="https://github.com/user-attachments/assets/82066c35-a559-4d36-af11-b6b6436e6679" />  
 <img width="50" height="50" alt="linear " src="https://github.com/user-attachments/assets/49909429-909f-4931-ba6c-c2b6d8c25554" />
 <img width="50" height="50" alt="excalidraw " src="https://github.com/user-attachments/assets/a511511f-a6d1-420a-ae0d-c83a62b1010b" />
+<img width="50" height="50" alt="ApiDog" src="https://github.com/user-attachments/assets/b85fe83b-e075-41fb-8e33-038e625cdb71" />
+
 
 
 
