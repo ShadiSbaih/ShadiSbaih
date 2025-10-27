@@ -70,7 +70,7 @@ const shadi = {
 ### 🗄️ Databases & Cloud Services
 
 <div>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,firebase,supabase,aws" />  
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,firebase,supabase,appwrite,aws" />  
   <img width="50" height="50" style="border-radius:20px;" alt="cloudinary" src="https://github.com/user-attachments/assets/76cfa5c7-d8b0-4ba5-af25-52543f28cbb7" />
   <img width="50" height="50" style="border-radius:20px;" alt="neo4j" src="https://github.com/user-attachments/assets/bee48256-7988-4ee3-93b7-e7bdba861852" />
   <img width="50" height="50" alt ="iamge kit"  src="https://github.com/user-attachments/assets/182abdb6-e7ab-4b6b-88fa-e6977b881d71" />
