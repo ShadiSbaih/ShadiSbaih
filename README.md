@@ -60,7 +60,7 @@ const shadi = {
 <img width="50" height="50" alt="Prisma" src="https://github.com/user-attachments/assets/c18d5396-b46b-47d9-a872-e61f50ecd7f8" />  
 <img width="45" height="45" alt="NeonDB" src="https://github.com/user-attachments/assets/b02d093c-cf45-4e8a-a570-779a5162ad10" />  
 <img width="50" height="50" alt="QraphQl" src="https://github.com/user-attachments/assets/9c39cade-3689-48a6-bd6f-ca4c42003a66" />
-<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/socketio/socketio-original.svg" />
+<img width="50" height="50" alt="socket-io" src="https://github.com/user-attachments/assets/2f66ca7d-56c2-48e4-900d-d99a1d8d9d32" />
 
           
 
