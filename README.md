@@ -58,7 +58,6 @@ const shadi = {
 <img src="https://skillicons.dev/icons?i=django,flask,fastapi,express,nestjs" />  
 <img width="50" height="50" alt="Strapi" src="https://github.com/user-attachments/assets/de72b61b-9ae8-46d7-a098-d73805bff4e4" />  
 <img width="50" height="50" alt="Prisma" src="https://github.com/user-attachments/assets/c18d5396-b46b-47d9-a872-e61f50ecd7f8" />  
-<img width="45" height="45" alt="NeonDB" src="https://github.com/user-attachments/assets/b02d093c-cf45-4e8a-a570-779a5162ad10" />  
 <img width="50" height="50" alt="QraphQl" src="https://github.com/user-attachments/assets/9c39cade-3689-48a6-bd6f-ca4c42003a66" />
 <img width="50" height="50" alt="socket-io" src="https://github.com/user-attachments/assets/2f66ca7d-56c2-48e4-900d-d99a1d8d9d32" />
 <img width="50" height="50" alt="Hono js api" src="https://github.com/user-attachments/assets/cc835db6-881f-454b-91d1-b03bdefe3f69" />
@@ -73,6 +72,7 @@ const shadi = {
 
 <div>
   <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,firebase,supabase,appwrite,aws" />  
+  <img width="45" height="45" alt="NeonDB" src="https://github.com/user-attachments/assets/b02d093c-cf45-4e8a-a570-779a5162ad10" />  
   <img width="50" height="50" style="border-radius:20px;" alt="cloudinary" src="https://github.com/user-attachments/assets/76cfa5c7-d8b0-4ba5-af25-52543f28cbb7" />
   <img width="50" height="50" style="border-radius:20px;" alt="neo4j" src="https://github.com/user-attachments/assets/bee48256-7988-4ee3-93b7-e7bdba861852" />
   <img width="50" height="50" alt ="iamge kit"  src="https://github.com/user-attachments/assets/182abdb6-e7ab-4b6b-88fa-e6977b881d71" />
