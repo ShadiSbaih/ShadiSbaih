@@ -61,6 +61,8 @@ const shadi = {
 <img width="45" height="45" alt="NeonDB" src="https://github.com/user-attachments/assets/b02d093c-cf45-4e8a-a570-779a5162ad10" />  
 <img width="50" height="50" alt="QraphQl" src="https://github.com/user-attachments/assets/9c39cade-3689-48a6-bd6f-ca4c42003a66" />
 <img width="50" height="50" alt="socket-io" src="https://github.com/user-attachments/assets/2f66ca7d-56c2-48e4-900d-d99a1d8d9d32" />
+<img width="50" height="50" alt="Hono js api" src="https://github.com/user-attachments/assets/cc835db6-881f-454b-91d1-b03bdefe3f69" />
+
 
           
 
