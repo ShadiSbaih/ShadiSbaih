@@ -3,18 +3,19 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Mobile+App+Developer;UI/UX+Designer;Frontend+Developer;Backend+Develoepr;Problem+Solver+%26+Code+Craftsman" alt="Typing SVG" />
 
-  <div align="center">
+<div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 </div>
 
 </div>
 
 
-
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 </div>
+
 <br>
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=shadisbaih&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="shadisbaih" />
 </div>
@@ -126,6 +127,98 @@ const shadi = {
 
 </div>
 
+---
+
+## 🎓 Certifications & Achievements
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
+<img width="1111" height="782" alt="DevOps" src="https://github.com/user-attachments/assets/6d9b5df7-9e20-4303-800c-9e7b60232d64" />
+<br />
+<sub><b>DevOps</b></sub>
+<br />
+<sub>Oracle • 2025</sub>
+<br/>
+<a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=9C0AB0A7A3E61BDD0859052308320E865B4CD7080C074270840779CF6652D16C">Certificate </a>
+</td>
+
+<td align="center" width="33%">
+<img width="1111" height="782" alt="SQL" src="https://github.com/user-attachments/assets/cd7699cc-4530-43b7-b7c6-a616cc8c680f"  />
+<br />
+<sub><b>SQL</b></sub>
+<br />
+<sub>365datascience • 2025</sub>
+ <br/>
+<a href="https://learn.365datascience.com/c/e6ddc69f72/">Certificate </a>
+</td>
+
+
+
+<td align="center" width="33%">
+<img width="1111" height="782" alt="image" src="https://github.com/user-attachments/assets/30d82e3f-7f07-4e30-8c0f-cf40f0783fd2" />
+<br />
+<sub><b>Data Scientist</b></sub>
+<br />
+<sub>Datacamp • 2025</sub>
+ <br/>
+<a href="https://www.datacamp.com/certificate/DSA0014667197359">Certificate </a>
+</td>
+</tr>
+
+<tr>
+
+<td align="center" width="33%">
+<img width="1111" height="782" alt="image" src="https://github.com/user-attachments/assets/cacf9447-a64a-49f0-b825-672d70694704" />
+<br />
+<sub><b>Meta Front-End Developer</b></sub>
+<br />
+<sub>Meta • 2025</sub>
+ <br/>
+<a href="https://coursera.org/share/bcc199f5f858af89df382ed8882e91c5">Certificate </a>
+</td>
+
+<td align="center" width="33%">
+<img width="1111" height="782" alt="image" src="https://github.com/user-attachments/assets/460c7fb3-4b9c-4017-bdc0-53b3ab948305" />
+<br />
+<sub><b>Google UX Design</b></sub>
+<br />
+<sub>Google • 2025</sub>
+ <br/>
+<a href="https://coursera.org/share/1d9a6bf2f2cda98d875e94f6d96e185f">Certificate </a>
+</td>
+  
+<td align="center" width="33%">
+<img width="1111" height="782" alt="image" src="https://github.com/user-attachments/assets/1fda6798-8d4e-410c-989b-488563d87d5c" />
+<br />
+<sub><b>Full Stack Application Development</b></sub>
+<br />
+<sub>IBM • 2025</sub>
+ <br/>
+<a href="https://credentials.edx.org/credentials/9dac8bb0e56043e3a737e5eae9b9c36e/">Certificate </a>
+</td>
+
+
+</tr>
+
+</table>
+
+<br/>
+
+### 🏅 Badge Collection
+
+<p>
+ <img src="https://img.shields.io/badge/Oracle-Certified-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"/>
+<img src="https://img.shields.io/badge/Google-Certified-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google"/>
+<img src="https://img.shields.io/badge/Meta-Certified-0668E1?style=for-the-badge&logo=meta&logoColor=white" alt="Meta"/>
+<img src="https://img.shields.io/badge/IBM-Certified-054ADA?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM"/>
+</p>
+
+</div>
+
+---
 
 ## 📊 GitHub Analytics
 
