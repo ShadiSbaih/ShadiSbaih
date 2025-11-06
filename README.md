@@ -181,15 +181,16 @@ const shadi = {
 </td>
 
 <td align="center" width="33%">
-<img width="1111" height="782" alt="image" src="https://github.com/user-attachments/assets/460c7fb3-4b9c-4017-bdc0-53b3ab948305" />
+<img width="1111" height="782" alt="image" src="https://github.com/user-attachments/assets/84e3ecf3-3220-4bf5-b1e1-a3649cc3f2e7" />
 <br />
-<sub><b>Google UX Design</b></sub>
+<sub><b> JavaScript Developer</b></sub>
 <br />
-<sub>Google • 2025</sub>
- <br/>
-<a href="https://coursera.org/share/1d9a6bf2f2cda98d875e94f6d96e185f">Certificate </a>
-</td>
+<sub>Udacity • 2025</sub>
+  <br/>
   
+<a href="https://www.udacity.com/certificate/e/7a5cde36-70a2-11f0-be9e-7fcaf7e5e23b">Certificate </a>
+</td>
+
 <td align="center" width="33%">
 <img width="1111" height="782" alt="image" src="https://github.com/user-attachments/assets/1fda6798-8d4e-410c-989b-488563d87d5c" />
 <br />
