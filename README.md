@@ -1,7 +1,7 @@
 #  Hey there! I'm Shadi Sbaih
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Mobile+App+Developer;UI/UX+Designer;Frontend+Developer;Backend+Develoepr;Problem+Solver+%26+Code+Craftsman" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Full+Stack+Developer;MERN+Stack+Specialist;Mobile+App+Developer;JavaScript+Developer;UI/UX+Designer;Frontend+Developer;Backend+Develoepr;Problem+Solver+%26+Code+Craftsman;Software+Engineer" alt="Typing SVG" />
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
