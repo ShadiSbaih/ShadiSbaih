@@ -202,8 +202,17 @@ const shadi = {
 </td>
 
 
+<tr>
+  <td align="center" width="350" colspan="3">
+  <img width="350" height="433" alt="image" src="https://github.com/user-attachments/assets/d8e638c5-e34e-48e7-8f07-7e73a8bac9ca" />
+  <br />
+  <sub><b>Azure Fundamentals </b></sub>
+  <br />
+  <sub>Microsoft • 2025</sub>
+  <br />
+  <a href="https://learn.microsoft.com/en-us/users/shadisbaih/credentials/aa63ae43eee0a238">Certificate </a>
+  </td>
 </tr>
-
 </table>
 
 <br/>
