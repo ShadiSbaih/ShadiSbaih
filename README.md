@@ -124,7 +124,6 @@ const shadi = {
 
 
 
-
 </div>
 
 ---
@@ -158,47 +157,45 @@ const shadi = {
 
 
 <td align="center" width="33%">
-<img width="1111" height="782" alt="image" src="https://github.com/user-attachments/assets/30d82e3f-7f07-4e30-8c0f-cf40f0783fd2" />
-<br />
-<sub><b>Data Scientist</b></sub>
-<br />
-<sub>Datacamp • 2025</sub>
+ <img width="1111" height="782" alt="image" src="https://github.com/user-attachments/assets/30d82e3f-7f07-4e30-8c0f-cf40f0783fd2" />
+ <br />
+ <sub><b>Data Scientist</b></sub>
+ <br />
+ <sub>Datacamp • 2025</sub>
  <br/>
-<a href="https://www.datacamp.com/certificate/DSA0014667197359">Certificate </a>
+ <a href="https://www.datacamp.com/certificate/DSA0014667197359">Certificate </a>
 </td>
 </tr>
 
 <tr>
-
 <td align="center" width="33%">
-<img width="1111" height="782" alt="image" src="https://github.com/user-attachments/assets/cacf9447-a64a-49f0-b825-672d70694704" />
-<br />
-<sub><b>Meta Front-End Developer</b></sub>
-<br />
-<sub>Meta • 2025</sub>
- <br/>
-<a href="https://coursera.org/share/bcc199f5f858af89df382ed8882e91c5">Certificate </a>
-</td>
-
-<td align="center" width="33%">
-<img width="1111" height="782" alt="image" src="https://github.com/user-attachments/assets/84e3ecf3-3220-4bf5-b1e1-a3649cc3f2e7" />
-<br />
-<sub><b> JavaScript Developer</b></sub>
-<br />
-<sub>Udacity • 2025</sub>
+ <img width="1111" height="782" alt="image" src="https://github.com/user-attachments/assets/cacf9447-a64a-49f0-b825-672d70694704" />
+ <br />
+ <sub><b>Meta Front-End Developer</b></sub>
+ <br />
+ <sub>Meta • 2025</sub>
   <br/>
-  
-<a href="https://www.udacity.com/certificate/e/7a5cde36-70a2-11f0-be9e-7fcaf7e5e23b">Certificate </a>
+ <a href="https://coursera.org/share/bcc199f5f858af89df382ed8882e91c5">Certificate </a>
 </td>
 
 <td align="center" width="33%">
-<img width="1111" height="782" alt="image" src="https://github.com/user-attachments/assets/1fda6798-8d4e-410c-989b-488563d87d5c" />
-<br />
-<sub><b>Full Stack Application Development</b></sub>
-<br />
-<sub>IBM • 2025</sub>
+ <img width="1111" height="782" alt="image" src="https://github.com/user-attachments/assets/84e3ecf3-3220-4bf5-b1e1-a3649cc3f2e7" />
+ <br />
+ <sub><b> JavaScript Developer</b></sub>
+ <br />
+ <sub>Udacity • 2025</sub>
  <br/>
-<a href="https://credentials.edx.org/credentials/9dac8bb0e56043e3a737e5eae9b9c36e/">Certificate </a>
+ <a href="https://www.udacity.com/certificate/e/7a5cde36-70a2-11f0-be9e-7fcaf7e5e23b">Certificate </a>
+</td>
+
+<td align="center" width="33%">
+ <img width="1111" height="782" alt="image" src="https://github.com/user-attachments/assets/1fda6798-8d4e-410c-989b-488563d87d5c" />
+ <br />
+ <sub><b>Full Stack Application Development</b></sub>
+ <br />
+ <sub>IBM • 2025</sub>
+ <br/>
+ <a href="https://credentials.edx.org/credentials/9dac8bb0e56043e3a737e5eae9b9c36e/">Certificate </a>
 </td>
 
 
@@ -224,6 +221,7 @@ const shadi = {
 <img src="https://img.shields.io/badge/Google-Certified-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google"/>
 <img src="https://img.shields.io/badge/Meta-Certified-0668E1?style=for-the-badge&logo=meta&logoColor=white" alt="Meta"/>
 <img src="https://img.shields.io/badge/IBM-Certified-054ADA?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM"/>
+<img src="https://img.shields.io/badge/Microsoft-Certified-00A4EF?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft"/>
 </p>
 
 </div>
