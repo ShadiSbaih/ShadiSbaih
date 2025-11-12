@@ -28,7 +28,7 @@ const shadi = {
   education: "Bachelor of Computer Science @ PTUK",
   currentlyLearning: ["MongoDB", "PostgreSQL", "Nest.js", "React with TypeScript", "Next.js"],
   specialties: ["MERN Stack", "Full Stack Development", "Cross-Platform Mobile Apps"],
-  askMeAbout: ["React.js", "Node.js", "Express.js", "JavaScript", "TypeScript", "MySQL"],
+  askMeAbout: ["React.js", "Node.js", "TypeScript", "MySQL"],
 };
 ```
 
