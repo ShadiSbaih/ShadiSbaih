@@ -58,7 +58,7 @@ const shadi = {
 <img src="https://skillicons.dev/icons?i=django,express,nestjs" />  
 <img width="50" height="50" alt="Strapi" src="https://github.com/user-attachments/assets/de72b61b-9ae8-46d7-a098-d73805bff4e4" />  
 <img width="50" height="50" alt="Prisma" src="https://github.com/user-attachments/assets/c18d5396-b46b-47d9-a872-e61f50ecd7f8" />  
-<img width="50" height="50" alt="QraphQl" src="https://github.com/user-attachments/assets/9c39cade-3689-48a6-bd6f-ca4c42003a66" />
+<!-- <img width="50" height="50" alt="QraphQl" src="https://github.com/user-attachments/assets/9c39cade-3689-48a6-bd6f-ca4c42003a66" /> -->
 <img width="50" height="50" alt="socket-io" src="https://github.com/user-attachments/assets/2f66ca7d-56c2-48e4-900d-d99a1d8d9d32" />
 <img width="40" height="50" alt="Hono js api" src="https://github.com/user-attachments/assets/cc835db6-881f-454b-91d1-b03bdefe3f69" />
 
