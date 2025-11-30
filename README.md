@@ -139,9 +139,8 @@ const shadi = {
 
 <div align="center">
 <table>
-<tr>
 <!-- ROW 1 -->
-<td align="center" width="33%">
+<!-- <td align="center" width="33%">
   <img width="300" alt="DevOps" src="https://github.com/user-attachments/assets/6d9b5df7-9e20-4303-800c-9e7b60232d64" />
   <br />
   <sub><b>DevOps</b></sub>
@@ -149,9 +148,9 @@ const shadi = {
   <sub>Oracle • 2025</sub>
   <br />
   <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=9C0AB0A7A3E61BDD0859052308320E865B4CD7080C074270840779CF6652D16C">Certificate</a>
-</td>
+</td> -->
 
-<td align="center" width="33%">
+<!-- <td align="center" width="33%">
   <img width="300" alt="SQL" src="https://github.com/user-attachments/assets/cd7699cc-4530-43b7-b7c6-a616cc8c680f" />
   <br />
   <sub><b>SQL</b></sub>
@@ -159,22 +158,13 @@ const shadi = {
   <sub>365datascience • 2025</sub>
   <br />
   <a href="https://learn.365datascience.com/c/e6ddc69f72/">Certificate</a>
-</td>
+</td> -->
 
-<td align="center" width="33%">
-  <img width="300" alt="Data Scientist" src="https://github.com/user-attachments/assets/30d82e3f-7f07-4e30-8c0f-cf40f0783fd2" />
-  <br />
-  <sub><b>Data Scientist</b></sub>
-  <br />
-  <sub>Datacamp • 2025</sub>
-  <br />
-  <a href="https://www.datacamp.com/certificate/DSA0014667197359">Certificate</a>
-</td>
-</tr>
+
 
 <tr>
 <!-- ROW 2 -->
-<td align="center" width="33%">
+<!-- <td align="center" width="33%">
   <img width="300" alt="Meta Front-End" src="https://github.com/user-attachments/assets/cacf9447-a64a-49f0-b825-672d70694704" />
   <br />
   <sub><b>Meta Front-End Developer</b></sub>
@@ -182,7 +172,7 @@ const shadi = {
   <sub>Meta • 2025</sub>
   <br />
   <a href="https://coursera.org/share/bcc199f5f858af89df382ed8882e91c5">Certificate</a>
-</td>
+</td> -->
 
 <td align="center" width="33%">
   <img width="300" alt="JS Developer" src="https://github.com/user-attachments/assets/84e3ecf3-3220-4bf5-b1e1-a3649cc3f2e7" />
@@ -203,7 +193,16 @@ const shadi = {
   <br />
   <a href="https://credentials.edx.org/credentials/9dac8bb0e56043e3a737e5eae9b9c36e/">Certificate</a>
 </td>
-</tr>
+
+<td align="center" width="33%">
+  <img width="300" alt="Data Scientist" src="https://github.com/user-attachments/assets/30d82e3f-7f07-4e30-8c0f-cf40f0783fd2" />
+  <br />
+  <sub><b>Data Scientist</b></sub>
+  <br />
+  <sub>Datacamp • 2025</sub>
+  <br />
+  <a href="https://www.datacamp.com/certificate/DSA0014667197359">Certificate</a>
+</td>
 
 <tr>
 <!-- ROW 3 -->
