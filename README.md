@@ -159,11 +159,6 @@ const shadi = {
   <br />
   <a href="https://learn.365datascience.com/c/e6ddc69f72/">Certificate</a>
 </td> -->
-
-
-
-<tr>
-<!-- ROW 2 -->
 <!-- <td align="center" width="33%">
   <img width="300" alt="Meta Front-End" src="https://github.com/user-attachments/assets/cacf9447-a64a-49f0-b825-672d70694704" />
   <br />
@@ -173,6 +168,10 @@ const shadi = {
   <br />
   <a href="https://coursera.org/share/bcc199f5f858af89df382ed8882e91c5">Certificate</a>
 </td> -->
+
+
+<tr>
+<!-- ROW 2 -->
 
 <td align="center" width="33%">
   <img width="300" alt="JS Developer" src="https://github.com/user-attachments/assets/84e3ecf3-3220-4bf5-b1e1-a3649cc3f2e7" />
@@ -185,7 +184,7 @@ const shadi = {
 </td>
 
 <td align="center" width="33%">
-  <img width="300" alt="Full Stack App Dev" src="https://github.com/user-attachments/assets/1fda6798-8d4e-410c-989b-488563d87d5c" />
+  <img width="300"  alt="Full Stack App Dev" src="https://github.com/user-attachments/assets/1fda6798-8d4e-410c-989b-488563d87d5c" />
   <br />
   <sub><b>Full Stack Application Development</b></sub>
   <br />
@@ -207,7 +206,7 @@ const shadi = {
 <tr>
 <!-- ROW 3 -->
 <td align="center" width="33%">
-  <img width="300" alt="React Native" src="https://github.com/user-attachments/assets/746a0154-6570-4e4e-b1e6-c27ebaf0dc10" />
+<img width="300"  alt="image" src="https://github.com/user-attachments/assets/0c961bc9-93c8-4c91-a2ac-8bfae93fa8a0" />
   <br />
   <sub><b>React Native</b></sub>
   <br />
