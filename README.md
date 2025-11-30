@@ -129,7 +129,37 @@ const shadi = {
 <div align="center">
 <table>
 <tr>
+<!-- ROW 1 -->
+<td align="center" width="33%">
+  <img width="300" alt="DevOps" src="https://github.com/user-attachments/assets/6d9b5df7-9e20-4303-800c-9e7b60232d64" />
+  <br />
+  <sub><b>DevOps</b></sub>
+  <br />
+  <sub>Oracle • 2025</sub>
+  <br />
+  <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=9C0AB0A7A3E61BDD0859052308320E865B4CD7080C074270840779CF6652D16C">Certificate</a>
+</td>
 
+<td align="center" width="33%">
+  <img width="300" alt="SQL" src="https://github.com/user-attachments/assets/cd7699cc-4530-43b7-b7c6-a616cc8c680f" />
+  <br />
+  <sub><b>SQL</b></sub>
+  <br />
+  <sub>365datascience • 2025</sub>
+  <br />
+  <a href="https://learn.365datascience.com/c/e6ddc69f72/">Certificate</a>
+</td>
+
+<td align="center" width="33%">
+  <img width="300" alt="Data Scientist" src="https://github.com/user-attachments/assets/30d82e3f-7f07-4e30-8c0f-cf40f0783fd2" />
+  <br />
+  <sub><b>Data Scientist</b></sub>
+  <br />
+  <sub>Datacamp • 2025</sub>
+  <br />
+  <a href="https://www.datacamp.com/certificate/DSA0014667197359">Certificate</a>
+</td>
+</tr>
 
 <tr>
 <!-- ROW 2 -->
@@ -139,7 +169,7 @@ const shadi = {
   <sub><b>Meta Front-End Developer</b></sub>
   <br />
   <sub>Meta • 2025</sub>
-  <br/>
+  <br />
   <a href="https://coursera.org/share/bcc199f5f858af89df382ed8882e91c5">Certificate</a>
 </td>
 
@@ -149,11 +179,32 @@ const shadi = {
   <sub><b>JavaScript Developer</b></sub>
   <br />
   <sub>Udacity • 2025</sub>
-  <br/>
+  <br />
   <a href="https://www.udacity.com/certificate/e/7a5cde36-70a2-11f0-be9e-7fcaf7e5e23b">Certificate</a>
 </td>
 
+<td align="center" width="33%">
+  <img width="300" alt="Full Stack App Dev" src="https://github.com/user-attachments/assets/1fda6798-8d4e-410c-989b-488563d87d5c" />
+  <br />
+  <sub><b>Full Stack Application Development</b></sub>
+  <br />
+  <sub>IBM • 2025</sub>
+  <br />
+  <a href="https://credentials.edx.org/credentials/9dac8bb0e56043e3a737e5eae9b9c36e/">Certificate</a>
+</td>
+</tr>
 
+<tr>
+<!-- ROW 3 -->
+<td align="center" width="33%">
+  <img width="300" alt="React Native" src="https://github.com/user-attachments/assets/746a0154-6570-4e4e-b1e6-c27ebaf0dc10" />
+  <br />
+  <sub><b>React Native</b></sub>
+  <br />
+  <sub>Meta • 2025</sub>
+  <br />
+  <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/2B4QYVXKHOBC">Certificate</a>
+</td>
 
 <td align="center" width="33%">
   <img width="300" alt="Azure Fundamentals" src="https://github.com/user-attachments/assets/d8e638c5-e34e-48e7-8f07-7e73a8bac9ca" />
@@ -165,7 +216,15 @@ const shadi = {
   <a href="https://learn.microsoft.com/en-us/users/shadisbaih/credentials/aa63ae43eee0a238">Certificate</a>
 </td>
 
-
+<td align="center" width="33%">
+  <img width="300" alt="Git & GitHub" src="https://github.com/user-attachments/assets/557d7665-2bc3-4cd2-bdbf-1d3b0df043c3" />
+  <br />
+  <sub><b>Git and GitHub</b></sub>
+  <br />
+  <sub>365datascience • 2025</sub>
+  <br />
+  <a href="https://learn.365datascience.com/certificates/CC-274D18398C/">Certificate</a>
+</td>
 </tr>
 </table>
 </div>
