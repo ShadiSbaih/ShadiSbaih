@@ -253,21 +253,20 @@ const shadi = {
 </p>
 </div>
 
-## 📊 GitHub Analytics
+
+## 📊 GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shadisbaih&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=1a1b27" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shadisbaih&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=1a1b27&include_all_commits=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shadisbaih&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=1a1b27"/>
 </div>
 
-<!-- GitHub Streak Stats -->
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shadisbaih&theme=tokyonight&hide_border=true&background=1a1b27" width="600"/>
 </div>
 
-## 📈 Contribution Graph
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=shadisbaih&theme=tokyonight&hide_border=true&bg_color=1a1b27" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shadisbaih&theme=tokyo-night&hide_border=true&bg_color=1a1b27" width="100%"/>
 </div>
 
 
