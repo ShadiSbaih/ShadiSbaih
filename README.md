@@ -24,12 +24,23 @@
 
 ```typescript
 const shadi = {
-  location: "Palestine ",
-  education: "Bachelor of Computer Science @ PTUK",
-  currentlyLearning: ["MongoDB", "PostgreSQL", "Nest.js", "React with TypeScript", "Next.js"],
-  specialties: ["MERN Stack", "Full Stack Development", "Cross-Platform Mobile Apps"],
-  askMeAbout: ["React.js", "Node.js","Expo", "TypeScript", "MySQL"],
+  location: "Palestine",
+  education: "B.Sc. Computer Science @ PTUK",
+  currentlyLearning: [
+    "MongoDB",
+    "PostgreSQL",
+    "Nest.js",
+    "React with TypeScript",
+    "Next.js"
+  ],
+  specialties: [
+    "Full Stack Development (MERN)",
+    "Cross-Platform Mobile Apps",
+    "API Engineering & Databases"
+  ],
+  askMeAbout: ["React", "Node.js", "TypeScript", "Expo", "MySQL"],
 };
+
 ```
 
 
@@ -254,6 +265,11 @@ const shadi = {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shadisbaih&theme=tokyonight&hide_border=true&background=1a1b27" width="600"/>
 </div>
 
+## 📈 Contribution Graph
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=shadisbaih&theme=tokyonight&hide_border=true&bg_color=1a1b27" />
+</div>
+
 
 ## 🏆 GitHub Trophies
 <div align="center">
@@ -309,6 +325,9 @@ const shadi = {
 <br/>
 
 <div align="center">
-  <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
+  <!-- <img src="https://forthebadge.com/images/badges/built-with-love.svg" /> -->
   <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" />
+</div>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </div>
