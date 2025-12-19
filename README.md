@@ -62,6 +62,7 @@ const shadi = {
 ### 📱 Mobile Development
 <img width="70" height="70" alt="React Native" src="https://github.com/user-attachments/assets/1ff92aae-a2e8-410f-abf2-c9198a0a4c93" />  
 <img width="50" height="50" alt="Ionic" src="https://github.com/user-attachments/assets/1a53982d-ece0-4eda-90ff-3410f5532fc9" />  
+<img width="50" height="50" alt="kotlin " src="https://github.com/user-attachments/assets/68e62dd1-f9da-4737-b9ab-bb20effa752d" />
 
 
 
