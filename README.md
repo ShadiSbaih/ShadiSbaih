@@ -252,7 +252,7 @@ const shadi = {
 </p>
 </div>
 
-
+<!--
 ## 📊 GitHub Statistics
 
 <div align="center">
@@ -268,7 +268,7 @@ const shadi = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shadisbaih&theme=tokyo-night&hide_border=true&bg_color=1a1b27" width="100%"/>
 </div>
 
-
+-->
 
 
 
