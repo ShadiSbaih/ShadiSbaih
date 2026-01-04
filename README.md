@@ -75,8 +75,7 @@ const shadi = {
 <img width="40" height="50" alt="Hono js api" src="https://github.com/user-attachments/assets/cc835db6-881f-454b-91d1-b03bdefe3f69" />
 
 
-          
-
+        
 
 
 
@@ -84,6 +83,8 @@ const shadi = {
 
 <div>
   <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,firebase,supabase,appwrite,aws" />  
+  <img width="50" height="50" alt="Convex" src="https://github.com/user-attachments/assets/a16b3b0e-1d25-4393-bae9-d4b6e4bf12e2" />
+
   <img width="45" height="45" alt="NeonDB" src="https://github.com/user-attachments/assets/b02d093c-cf45-4e8a-a570-779a5162ad10" />  
   <img width="50" height="50" style="border-radius:20px;" alt="cloudinary" src="https://github.com/user-attachments/assets/76cfa5c7-d8b0-4ba5-af25-52543f28cbb7" />
   <img width="50" height="50" style="border-radius:20px;" alt="neo4j" src="https://github.com/user-attachments/assets/bee48256-7988-4ee3-93b7-e7bdba861852" />
