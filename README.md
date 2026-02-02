@@ -121,12 +121,12 @@ const shadi = {
   margin-top: 20px;
 ">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,azure,netlify,vercel,figma" style="height: 45px;" />
-  <img width="45" height="45" alt="jira" src="https://github.com/user-attachments/assets/a4fb4ce8-4956-4d75-b902-c6347a73bc77" />
-  <img width="45" height="45" alt="claude" src="https://github.com/user-attachments/assets/beda0d28-4a8a-4b56-abbd-49eb59de3a93" />
-  <img width="45" height="45" alt="android studio" src="https://github.com/user-attachments/assets/82066c35-a559-4d36-af11-b6b6436e6679" />
-  <img width="45" height="45" alt="linear" src="https://github.com/user-attachments/assets/49909429-909f-4931-ba6c-c2b6d8c25554" />
-  <img width="45" height="45" alt="apidog" src="https://github.com/user-attachments/assets/b85fe83b-e075-41fb-8e33-038e625cdb71" />
-   <img width="50" height="50" alt="excalidraw" src="https://github.com/user-attachments/assets/7a070fdd-9555-460d-be70-d29fccf71807" />
+  <img width="50" height="50" alt="jira" src="https://github.com/user-attachments/assets/a4fb4ce8-4956-4d75-b902-c6347a73bc77" />
+  <img width="50" height="50" alt="claude" src="https://github.com/user-attachments/assets/beda0d28-4a8a-4b56-abbd-49eb59de3a93" />
+  <img width="50" height="50" alt="android studio" src="https://github.com/user-attachments/assets/82066c35-a559-4d36-af11-b6b6436e6679" />
+  <img width="50" height="45" alt="linear" src="https://github.com/user-attachments/assets/49909429-909f-4931-ba6c-c2b6d8c25554" />
+  <img width="50" height="50" alt="apidog" src="https://github.com/user-attachments/assets/b85fe83b-e075-41fb-8e33-038e625cdb71" />
+<img width="50" height="50" alt="excalidraw " src="https://github.com/user-attachments/assets/2f232ca5-d529-461c-831a-9002548ad50d" />
 
 </div>
 
