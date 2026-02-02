@@ -551,13 +551,13 @@ const shadi = {
 <br/>
 
 <div align="center">
-  <a href="https://linkedin.com/in/shadisbaih" target="_blank">
+  <a href="https://linkedin.com/in/shadi-sbaih" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn"/>
   </a>
-  <a href="https://discord.gg/shadisbaih" target="_blank">
+  <a href="https://discord.gg/shadi.sbaih" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0d1117" alt="Discord"/>
   </a>
-  <a href="mailto:shadisbaih@example.com" target="_blank">
+  <a href="mailto:shadisbaih.dev@gmail" target="_blank">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email"/>
   </a>
   <a href="https://shadisbaih.dev" target="_blank">
@@ -566,7 +566,7 @@ const shadi = {
   <a href="https://facebook.com/shadisbaih" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=0d1117" alt="Facebook"/>
   </a>
-  <a href="https://instagram.com/shadisbaih" target="_blank">
+  <a href="https://instagram.com/i.shadi.s" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1117" alt="Instagram"/>
   </a>
 </div>
