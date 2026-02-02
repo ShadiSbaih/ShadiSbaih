@@ -77,7 +77,6 @@ const shadi = {
 
         
 
-
 ### 🗄️ Databases & Cloud Services
 
 <div>
@@ -92,7 +91,7 @@ const shadi = {
 
 
 
-### 🧪 Testing & QA
+### 🧪 Testing 
 <img src="https://skillicons.dev/icons?i=postman,jest" />  
 <img width="50" height="50" alt="Jasmine" src="https://github.com/user-attachments/assets/211419af-4566-41d3-bd0c-7995fe3e593d" />  
 <img width="45" height="45" alt="Selenium" src="https://github.com/user-attachments/assets/a99d18f4-db1c-4861-9ae1-7427de12f3a9" />  
@@ -105,6 +104,8 @@ const shadi = {
 <img width="50" height="50" alt="vitest" src="https://github.com/user-attachments/assets/4a4b760d-58e7-4c9a-98b2-d7d3a9927ae9" />
 <img width="50" height="50" alt="storybook" src="https://github.com/user-attachments/assets/ac3d7217-2345-46ea-a620-8223e9f79a4b" />  
 <img width="50" height="50" alt="browserstack " src="https://github.com/user-attachments/assets/f36ca215-26ac-4603-a913-80f67761b9df" />
+<img width="55" height="55" alt="swagger " src="https://github.com/user-attachments/assets/4696d828-5716-41db-ac62-f85a89a1b493" />
+
 
 
 
