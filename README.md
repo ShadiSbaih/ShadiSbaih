@@ -17,7 +17,6 @@
 <!-- PROFILE VIEWS COUNTER -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=shadisbaih&label=Profile%20Views&color=161b22&style=for-the-badge&labelColor=0d1117" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/shadisbaih?label=Followers&style=for-the-badge&color=161b22&labelColor=0d1117" alt="Followers" />
 </div>
 
 <br/>
