@@ -4,7 +4,7 @@
 
 <!-- HEADER SECTION -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=200&section=header&text=Shadi%20Sbaih&fontSize=50&fontColor=58a6ff&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20Software%20Engineer&descSize=18&descAlignY=55&descAlign=50&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:b2d8d8,50:008080,100:004c4c&height=200&section=header&text=Shadi%20Sbaih&fontSize=50&fontColor=58a6ff&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20Software%20Engineer&descSize=18&descAlignY=55&descAlign=50&animation=fadeIn" width="100%"/>
 </div>
 
 <!-- TYPING ANIMATION -->
@@ -324,6 +324,8 @@ const shadi = {
 
 <!-- DEVOPS & TOOLS -->
 
+<!-- DEVOPS & TOOLS -->
+
 <details open>
 <summary><h3>🚀 DevOps & Development Tools</h3></summary>
 <br/>
@@ -331,13 +333,31 @@ const shadi = {
   <table>
     <tr>
       <td align="center"><strong>Version Control</strong></td>
-      <td align="center"><strong>Design Tools</strong></td>
-      <td align="center"><strong>IDEs</strong></td>
+      <td align="center"><strong>CI/CD & Automation</strong></td>
+      <td align="center"><strong>Containerization</strong></td>
     </tr>
     <tr>
       <td align="center">
         <img src="https://skillicons.dev/icons?i=git,github&theme=dark" />
       </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=githubactions&theme=dark" />
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=docker&theme=dark" />
+      </td>
+    </tr>
+  </table>
+
+  <br/>
+
+  <table>
+    <tr>
+      <td align="center"><strong>Design Tools</strong></td>
+      <td align="center"><strong>IDEs</strong></td>
+      <td align="center"><strong>Project Management & Collaboration</strong></td>
+    </tr>
+    <tr>
       <td align="center">
         <img src="https://skillicons.dev/icons?i=figma&theme=dark" />
         <img width="50" height="50" alt="Excalidraw" src="https://github.com/user-attachments/assets/2f232ca5-d529-461c-831a-9002548ad50d" />
@@ -346,14 +366,6 @@ const shadi = {
         <img src="https://skillicons.dev/icons?i=vscode&theme=dark" />
         <img width="50" height="50" alt="Android Studio" src="https://github.com/user-attachments/assets/82066c35-a559-4d36-af11-b6b6436e6679" />
       </td>
-    </tr>
-  </table>
-  <br/>
-  <table>
-    <tr>
-      <td align="center"><strong>Project Management & Collaboration</strong></td>
-    </tr>
-    <tr>
       <td align="center">
         <img width="50" height="50" alt="Jira" src="https://github.com/user-attachments/assets/a4fb4ce8-4956-4d75-b902-c6347a73bc77" />
         <img width="50" height="50" alt="Linear" src="https://github.com/user-attachments/assets/49909429-909f-4931-ba6c-c2b6d8c25554" />
