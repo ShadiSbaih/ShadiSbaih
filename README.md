@@ -94,7 +94,7 @@ const shadi = {
 <br/>
 
 <!-- FRONTEND -->
-<!-- FRONTEND -->
+
 <details open>
 <summary><h3>🎨 Frontend Development</h3></summary>
 <br/>
@@ -124,23 +124,32 @@ const shadi = {
   <strong>State Management & Data Fetching</strong>
   <br/><br/>
 
-  <!-- Server State -->
-  <img width="55" height="55" alt="TanStack Query" src="https://github.com/user-attachments/assets/7f46953b-5599-4728-89a7-ebad020057c5" />
-
-  <!-- Client / Global State -->
-  <img src="https://skillicons.dev/icons?i=redux&theme=dark" height="55" />
-  <img width="50" height="50" alt="zustand " src="https://github.com/user-attachments/assets/28514fbc-8b8a-4bc6-9428-1258cd7aff97" />
-
-  <!-- Data / Forms -->
-<img width="50" height="50" alt="React Hook Form + Zod" src="https://github.com/user-attachments/assets/15ebed64-a8e4-4822-803f-6cda88d63e66" />
-
-  <!-- Networking -->
-<img width="50" height="50" alt="axios" src="https://github.com/user-attachments/assets/acdb8628-1ea2-411b-9130-290956445f0f" />
+  <table>
+    <tr>
+      <td align="center"><strong>Server State</strong></td>
+      <td align="center"><strong>Client State</strong></td>
+      <td align="center"><strong>Forms & Validation</strong></td>
+      <td align="center"><strong>HTTP Client</strong></td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img width="55" height="55" alt="TanStack Query" src="https://github.com/user-attachments/assets/7f46953b-5599-4728-89a7-ebad020057c5" />
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=redux&theme=dark" height="55" />
+        <img width="50" height="50" alt="Zustand" src="https://github.com/user-attachments/assets/28514fbc-8b8a-4bc6-9428-1258cd7aff97" />
+      </td>
+      <td align="center">
+        <img width="50" height="50" alt="React Hook Form + Zod" src="https://github.com/user-attachments/assets/15ebed64-a8e4-4822-803f-6cda88d63e66" />
+      </td>
+      <td align="center">
+        <img width="50" height="50" alt="Axios" src="https://github.com/user-attachments/assets/acdb8628-1ea2-411b-9130-290956445f0f" />
+      </td>
+    </tr>
+  </table>
 
 </div>
 </details>
-
-
 <br/>
 
 <!-- MOBILE DEVELOPMENT -->
@@ -150,16 +159,13 @@ const shadi = {
 <div align="center">
   <table>
     <tr>
-      <td align="center"><strong>React Native + Expo </strong></td>
-      <td align="center"><strong>Cross-Platform</strong></td>
-      <td align="center"><strong>Native</strong></td>
+      <td align="center"><strong>Cross-Platform Frameworks</strong></td>
+      <td align="center"><strong>Native Development</strong></td>
     </tr>
     <tr>
       <td align="center">
         <img width="80" height="80" alt="React Native" src="https://github.com/user-attachments/assets/1ff92aae-a2e8-410f-abf2-c9198a0a4c93" />
         <img width="50" height="60" alt="Expo" src="https://github.com/user-attachments/assets/3334a89d-3065-4c7b-b78b-72e2a518b156" />
-      </td>
-      <td align="center">
         <img width="55" height="55" alt="Ionic" src="https://github.com/user-attachments/assets/1a53982d-ece0-4eda-90ff-3410f5532fc9" />
       </td>
       <td align="center">
@@ -180,8 +186,8 @@ const shadi = {
   <table>
     <tr>
       <td align="center"><strong>Frameworks</strong></td>
-      <td align="center"><strong>ORMs</strong></td>
-      <td align="center"><strong>Real-time</strong></td>
+      <td align="center"><strong>ORMs & Database Tools</strong></td>
+      <td align="center"><strong>Real-time Communication</strong></td>
     </tr>
     <tr>
       <td align="center">
@@ -201,8 +207,7 @@ const shadi = {
   <strong>Headless CMS</strong>
   <br/><br/>
   <img width="55" height="55" alt="Strapi" src="https://github.com/user-attachments/assets/de72b61b-9ae8-46d7-a098-d73805bff4e4" />
-  <img width="55" height="55" alt="Sanity " src="https://github.com/user-attachments/assets/1cc7731d-38fc-477a-be76-31ea96b4b6c4" />
-
+  <img width="55" height="55" alt="Sanity" src="https://github.com/user-attachments/assets/1cc7731d-38fc-477a-be76-31ea96b4b6c4" />
 </div>
 </details>
 
@@ -235,14 +240,29 @@ const shadi = {
     </tr>
   </table>
   <br/>
-  <strong>Cloud Platforms & Media Services</strong>
+  <strong>Cloud Platforms & Hosting</strong>
   <br/><br/>
-  <img src="https://skillicons.dev/icons?i=aws&theme=dark" />
+  <table>
+    <tr>
+      <td align="center"><strong>Cloud Infrastructure</strong></td>
+      <td align="center"><strong>Deployment Platforms</strong></td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=aws,azure&theme=dark" />
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=netlify,vercel&theme=dark" />
+      </td>
+    </tr>
+  </table>
+  <br/>
+  <strong>Media & Asset Management</strong>
+  <br/><br/>
   <img width="55" height="55" alt="Cloudinary" src="https://github.com/user-attachments/assets/76cfa5c7-d8b0-4ba5-af25-52543f28cbb7" />
   <img width="55" height="55" alt="ImageKit" src="https://github.com/user-attachments/assets/182abdb6-e7ab-4b6b-88fa-e6977b881d71" />
 </div>
 </details>
-
 <br/>
 
 <!-- TESTING -->
@@ -261,6 +281,7 @@ const shadi = {
         <img src="https://skillicons.dev/icons?i=jest&theme=dark" />
         <img width="50" height="50" alt="Vitest" src="https://github.com/user-attachments/assets/4a4b760d-58e7-4c9a-98b2-d7d3a9927ae9" />
         <img width="50" height="50" alt="Testing Library" src="https://github.com/user-attachments/assets/86f24640-ea67-4ac6-b934-95f9b6e14a0b" />
+        <br/>
         <img width="50" height="50" alt="Mocha" src="https://github.com/user-attachments/assets/b7d31a4e-7246-4438-a7dc-9ea6ba46dd19" />
         <img width="50" height="50" alt="Jasmine" src="https://github.com/user-attachments/assets/211419af-4566-41d3-bd0c-7995fe3e593d" />
       </td>
@@ -277,7 +298,7 @@ const shadi = {
     </tr>
   </table>
   <br/>
-  <strong>Component Development & Cross-Browser Testing</strong>
+  <strong>Component Development & Additional Tools</strong>
   <br/><br/>
   <img width="50" height="50" alt="Storybook" src="https://github.com/user-attachments/assets/ac3d7217-2345-46ea-a620-8223e9f79a4b" />
   <img width="50" height="50" alt="MSW" src="https://github.com/user-attachments/assets/093d5301-8c76-4a4e-827d-3da1d326d58a" />
@@ -288,6 +309,7 @@ const shadi = {
 <br/>
 
 <!-- DEVOPS & TOOLS -->
+
 <details open>
 <summary><h3>🚀 DevOps & Development Tools</h3></summary>
 <br/>
@@ -295,27 +317,26 @@ const shadi = {
   <table>
     <tr>
       <td align="center"><strong>Version Control</strong></td>
-      <td align="center"><strong>Cloud & Hosting</strong></td>
-      <td align="center"><strong>Design</strong></td>
+      <td align="center"><strong>Design Tools</strong></td>
+      <td align="center"><strong>IDEs</strong></td>
     </tr>
     <tr>
       <td align="center">
         <img src="https://skillicons.dev/icons?i=git,github&theme=dark" />
       </td>
       <td align="center">
-        <img src="https://skillicons.dev/icons?i=azure,netlify,vercel&theme=dark" />
-      </td>
-      <td align="center">
         <img src="https://skillicons.dev/icons?i=figma&theme=dark" />
         <img width="50" height="50" alt="Excalidraw" src="https://github.com/user-attachments/assets/2f232ca5-d529-461c-831a-9002548ad50d" />
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=vscode&theme=dark" />
+        <img width="50" height="50" alt="Android Studio" src="https://github.com/user-attachments/assets/82066c35-a559-4d36-af11-b6b6436e6679" />
       </td>
     </tr>
   </table>
   <br/>
-  <strong>IDE & Project Management</strong>
+  <strong>Project Management & Collaboration</strong>
   <br/><br/>
-  <img src="https://skillicons.dev/icons?i=vscode&theme=dark" />
-  <img width="50" height="50" alt="Android Studio" src="https://github.com/user-attachments/assets/82066c35-a559-4d36-af11-b6b6436e6679" />
   <img width="50" height="50" alt="Jira" src="https://github.com/user-attachments/assets/a4fb4ce8-4956-4d75-b902-c6347a73bc77" />
   <img width="50" height="50" alt="Linear" src="https://github.com/user-attachments/assets/49909429-909f-4931-ba6c-c2b6d8c25554" />
   <img width="50" height="50" alt="APIDog" src="https://github.com/user-attachments/assets/b85fe83b-e075-41fb-8e33-038e625cdb71" />
