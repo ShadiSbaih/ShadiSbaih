@@ -560,7 +560,7 @@ const shadi = {
   <a href="mailto:shadisbaih.dev@gmail" target="_blank">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email"/>
   </a>
-  <a href="https://shadisbaih.dev" target="_blank">
+  <a href="https://shadisbaih.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white&labelColor=0d1117" alt="Portfolio"/>
   </a>
   <a href="https://facebook.com/shadisbaih" target="_blank">
