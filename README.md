@@ -4,8 +4,9 @@
 
 <!-- HEADER SECTION -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:b2d8d8,50:008080,100:004c4c&height=200&section=header&text=Shadi%20Sbaih&fontSize=50&fontColor=58a6ff&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20Software%20Engineer&descSize=18&descAlignY=55&descAlign=50&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0d6efd,100:58a6ff&height=200&section=header&text=Shadi%20Sbaih&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20Software%20Engineer&descSize=18&descAlignY=55&descAlign=50&animation=fadeIn" width="100%"/>
 </div>
+
 
 <!-- TYPING ANIMATION -->
 <div align="center">
