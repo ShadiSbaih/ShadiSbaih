@@ -95,6 +95,7 @@ const shadi = {
 
 <!-- FRONTEND -->
 
+
 <details open>
 <summary><h3>🎨 Frontend Development</h3></summary>
 <br/>
@@ -113,6 +114,7 @@ const shadi = {
         <img src="https://skillicons.dev/icons?i=tailwind,mui&theme=dark" />
         <img width="48" height="48" alt="ShadCN" src="https://github.com/user-attachments/assets/a9954bc5-9c1a-4cef-ba52-171e5414b929" />
         <img width="48" height="48" alt="Chakra UI" src="https://github.com/user-attachments/assets/383093d5-f05a-4f7b-9e65-23acfe74e4ec" />
+        <br/>
       </td>
       <td align="center">
         <img src="https://skillicons.dev/icons?i=vite,webpack,gulp&theme=dark" />
@@ -179,6 +181,7 @@ const shadi = {
 <br/>
 
 <!-- BACKEND -->
+
 <details open>
 <summary><h3>⚙️ Backend Development</h3></summary>
 <br/>
@@ -204,10 +207,17 @@ const shadi = {
     </tr>
   </table>
   <br/>
-  <strong>Headless CMS</strong>
-  <br/><br/>
-  <img width="55" height="55" alt="Strapi" src="https://github.com/user-attachments/assets/de72b61b-9ae8-46d7-a098-d73805bff4e4" />
-  <img width="55" height="55" alt="Sanity" src="https://github.com/user-attachments/assets/1cc7731d-38fc-477a-be76-31ea96b4b6c4" />
+  <table>
+    <tr>
+      <td align="center"><strong>Headless CMS</strong></td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img width="55" height="55" alt="Strapi" src="https://github.com/user-attachments/assets/de72b61b-9ae8-46d7-a098-d73805bff4e4" />
+        <img width="55" height="55" alt="Sanity" src="https://github.com/user-attachments/assets/1cc7731d-38fc-477a-be76-31ea96b4b6c4" />
+      </td>
+    </tr>
+  </table>
 </div>
 </details>
 
@@ -240,12 +250,11 @@ const shadi = {
     </tr>
   </table>
   <br/>
-  <strong>Cloud Platforms & Hosting</strong>
-  <br/><br/>
   <table>
     <tr>
       <td align="center"><strong>Cloud Infrastructure</strong></td>
       <td align="center"><strong>Deployment Platforms</strong></td>
+      <td align="center"><strong>Media & Asset Management</strong></td>
     </tr>
     <tr>
       <td align="center">
@@ -254,13 +263,12 @@ const shadi = {
       <td align="center">
         <img src="https://skillicons.dev/icons?i=netlify,vercel&theme=dark" />
       </td>
+      <td align="center">
+        <img width="55" height="55" alt="Cloudinary" src="https://github.com/user-attachments/assets/76cfa5c7-d8b0-4ba5-af25-52543f28cbb7" />
+        <img width="55" height="55" alt="ImageKit" src="https://github.com/user-attachments/assets/182abdb6-e7ab-4b6b-88fa-e6977b881d71" />
+      </td>
     </tr>
   </table>
-  <br/>
-  <strong>Media & Asset Management</strong>
-  <br/><br/>
-  <img width="55" height="55" alt="Cloudinary" src="https://github.com/user-attachments/assets/76cfa5c7-d8b0-4ba5-af25-52543f28cbb7" />
-  <img width="55" height="55" alt="ImageKit" src="https://github.com/user-attachments/assets/182abdb6-e7ab-4b6b-88fa-e6977b881d71" />
 </div>
 </details>
 <br/>
@@ -298,14 +306,20 @@ const shadi = {
     </tr>
   </table>
   <br/>
-  <strong>Component Development & Additional Tools</strong>
-  <br/><br/>
-  <img width="50" height="50" alt="Storybook" src="https://github.com/user-attachments/assets/ac3d7217-2345-46ea-a620-8223e9f79a4b" />
-  <img width="50" height="50" alt="MSW" src="https://github.com/user-attachments/assets/093d5301-8c76-4a4e-827d-3da1d326d58a" />
-  <img width="50" height="50" alt="BrowserStack" src="https://github.com/user-attachments/assets/f36ca215-26ac-4603-a913-80f67761b9df" />
+  <table>
+    <tr>
+      <td align="center"><strong>Component Development & Additional Tools</strong></td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img width="50" height="50" alt="Storybook" src="https://github.com/user-attachments/assets/ac3d7217-2345-46ea-a620-8223e9f79a4b" />
+        <img width="50" height="50" alt="MSW" src="https://github.com/user-attachments/assets/093d5301-8c76-4a4e-827d-3da1d326d58a" />
+        <img width="50" height="50" alt="BrowserStack" src="https://github.com/user-attachments/assets/f36ca215-26ac-4603-a913-80f67761b9df" />
+      </td>
+    </tr>
+  </table>
 </div>
 </details>
-
 <br/>
 
 <!-- DEVOPS & TOOLS -->
@@ -335,12 +349,19 @@ const shadi = {
     </tr>
   </table>
   <br/>
-  <strong>Project Management & Collaboration</strong>
-  <br/><br/>
-  <img width="50" height="50" alt="Jira" src="https://github.com/user-attachments/assets/a4fb4ce8-4956-4d75-b902-c6347a73bc77" />
-  <img width="50" height="50" alt="Linear" src="https://github.com/user-attachments/assets/49909429-909f-4931-ba6c-c2b6d8c25554" />
-  <img width="50" height="50" alt="APIDog" src="https://github.com/user-attachments/assets/b85fe83b-e075-41fb-8e33-038e625cdb71" />
-  <img width="50" height="50" alt="Claude AI" src="https://github.com/user-attachments/assets/beda0d28-4a8a-4b56-abbd-49eb59de3a93" />
+  <table>
+    <tr>
+      <td align="center"><strong>Project Management & Collaboration</strong></td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img width="50" height="50" alt="Jira" src="https://github.com/user-attachments/assets/a4fb4ce8-4956-4d75-b902-c6347a73bc77" />
+        <img width="50" height="50" alt="Linear" src="https://github.com/user-attachments/assets/49909429-909f-4931-ba6c-c2b6d8c25554" />
+        <img width="50" height="50" alt="APIDog" src="https://github.com/user-attachments/assets/b85fe83b-e075-41fb-8e33-038e625cdb71" />
+        <img width="50" height="50" alt="Claude AI" src="https://github.com/user-attachments/assets/beda0d28-4a8a-4b56-abbd-49eb59de3a93" />
+      </td>
+    </tr>
+  </table>
 </div>
 </details>
 
