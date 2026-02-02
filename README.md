@@ -87,12 +87,13 @@ const shadi = {
 <summary><h3>💻 Languages</h3></summary>
 <br/>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,python,html,css,sass&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,php,golang,cs,cpp,javascript,typescript,python,html,css,sass&theme=dark" />
 </div>
 </details>
 
 <br/>
 
+<!-- FRONTEND -->
 <!-- FRONTEND -->
 <details open>
 <summary><h3>🎨 Frontend Development</h3></summary>
@@ -106,7 +107,7 @@ const shadi = {
     </tr>
     <tr>
       <td align="center">
-        <img src="https://skillicons.dev/icons?i=react,nextjs,redux&theme=dark" />
+        <img src="https://skillicons.dev/icons?i=react,nextjs&theme=dark" />
       </td>
       <td align="center">
         <img src="https://skillicons.dev/icons?i=tailwind,mui&theme=dark" />
@@ -114,16 +115,31 @@ const shadi = {
         <img width="48" height="48" alt="Chakra UI" src="https://github.com/user-attachments/assets/383093d5-f05a-4f7b-9e65-23acfe74e4ec" />
       </td>
       <td align="center">
-        <img src="https://skillicons.dev/icons?i=vite,gulp&theme=dark" />
+        <img src="https://skillicons.dev/icons?i=vite,webpack,gulp&theme=dark" />
       </td>
     </tr>
   </table>
+
   <br/>
   <strong>State Management & Data Fetching</strong>
   <br/><br/>
+
+  <!-- Server State -->
   <img width="55" height="55" alt="TanStack Query" src="https://github.com/user-attachments/assets/7f46953b-5599-4728-89a7-ebad020057c5" />
+
+  <!-- Client / Global State -->
+  <img src="https://skillicons.dev/icons?i=redux&theme=dark" height="55" />
+  <img width="50" height="50" alt="zustand " src="https://github.com/user-attachments/assets/28514fbc-8b8a-4bc6-9428-1258cd7aff97" />
+
+  <!-- Data / Forms -->
+<img width="50" height="50" alt="React Hook Form + Zod" src="https://github.com/user-attachments/assets/15ebed64-a8e4-4822-803f-6cda88d63e66" />
+
+  <!-- Networking -->
+<img width="50" height="50" alt="axios" src="https://github.com/user-attachments/assets/acdb8628-1ea2-411b-9130-290956445f0f" />
+
 </div>
 </details>
+
 
 <br/>
 
@@ -134,13 +150,14 @@ const shadi = {
 <div align="center">
   <table>
     <tr>
-      <td align="center"><strong>React Native</strong></td>
+      <td align="center"><strong>React Native + Expo </strong></td>
       <td align="center"><strong>Cross-Platform</strong></td>
       <td align="center"><strong>Native</strong></td>
     </tr>
     <tr>
       <td align="center">
         <img width="80" height="80" alt="React Native" src="https://github.com/user-attachments/assets/1ff92aae-a2e8-410f-abf2-c9198a0a4c93" />
+        <img width="50" height="60" alt="Expo" src="https://github.com/user-attachments/assets/3334a89d-3065-4c7b-b78b-72e2a518b156" />
       </td>
       <td align="center">
         <img width="55" height="55" alt="Ionic" src="https://github.com/user-attachments/assets/1a53982d-ece0-4eda-90ff-3410f5532fc9" />
@@ -184,6 +201,8 @@ const shadi = {
   <strong>Headless CMS</strong>
   <br/><br/>
   <img width="55" height="55" alt="Strapi" src="https://github.com/user-attachments/assets/de72b61b-9ae8-46d7-a098-d73805bff4e4" />
+  <img width="55" height="55" alt="Sanity " src="https://github.com/user-attachments/assets/1cc7731d-38fc-477a-be76-31ea96b4b6c4" />
+
 </div>
 </details>
 
