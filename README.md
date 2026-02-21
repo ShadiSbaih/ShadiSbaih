@@ -590,7 +590,6 @@ const shadi = {
 </div>
 
 <br/>
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:87CEFA,50:ADD8E6,100:BFEFFF&height=120&section=footer"/>
 </div>
