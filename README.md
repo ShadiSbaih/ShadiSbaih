@@ -51,7 +51,7 @@ const shadi = {
   currentlyLearning: [
     "MongoDB", "PostgreSQL",
     "Nest.js", "Next.js",
-    "React with TypeScript"
+    "ASP.NET Core"
   ],
   
   askMeAbout: [
