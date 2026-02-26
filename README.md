@@ -85,7 +85,7 @@ const shadi = {
 
 <!-- LANGUAGES -->
 <details open>
-<summary><h3>💻 Languages</h3></summary>
+<summary><h3> Languages</h3></summary>
 <br/>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java,php,golang,cs,cpp,javascript,typescript,python,html,css&theme=dark" />
