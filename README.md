@@ -98,7 +98,7 @@ const shadi = {
 
 
 <details open>
-<summary><h3>🎨 Frontend Development</h3></summary>
+<summary><h3> Frontend Development</h3></summary>
 <br/>
 <div align="center">
   <table>
@@ -157,7 +157,7 @@ const shadi = {
 
 <!-- MOBILE DEVELOPMENT -->
 <details open>
-<summary><h3>📱 Mobile Development</h3></summary>
+<summary><h3> Mobile Development</h3></summary>
 <br/>
 <div align="center">
   <table>
@@ -184,7 +184,7 @@ const shadi = {
 <!-- BACKEND -->
 
 <details open>
-<summary><h3>⚙️ Backend Development</h3></summary>
+<summary><h3> Backend Development</h3></summary>
 <br/>
 <div align="center">
   <table>
@@ -226,7 +226,7 @@ const shadi = {
 
 <!-- DATABASES & CLOUD -->
 <details open>
-<summary><h3>🗄️ Databases & Cloud Services</h3></summary>
+<summary><h3> Databases & Cloud Services</h3></summary>
 <br/>
 <div align="center">
   <table>
@@ -276,7 +276,7 @@ const shadi = {
 
 <!-- TESTING -->
 <details open>
-<summary><h3>🧪 Testing & Quality Assurance</h3></summary>
+<summary><h3> Testing & Quality Assurance</h3></summary>
 <br/>
 <div align="center">
   <table>
@@ -328,7 +328,7 @@ const shadi = {
 <!-- DEVOPS & TOOLS -->
 
 <details open>
-<summary><h3>🚀 DevOps & Development Tools</h3></summary>
+<summary><h3> DevOps & Development Tools</h3></summary>
 <br/>
 <div align="center">
   <table>
