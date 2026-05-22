@@ -87,7 +87,7 @@ const shadi = {
 <summary><h3> Languages</h3></summary>
 <br/>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,php,golang,cs,cpp,javascript,typescript,python,html,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,php,golang,cs,cpp,javascript,typescript,python,html,css&theme=dark" />
 </div>
 </details>
 
@@ -108,8 +108,8 @@ const shadi = {
     </tr>
     <tr>
       <td align="center">
-        <img src="https://skillicons.dev/icons?i=react,nextjs&theme=dark" />
-      </td>
+       <img src="https://skillicons.dev/icons?i=react,nextjs,angular&theme=dark" />
+       </td>
       <td align="center">
         <img src="https://skillicons.dev/icons?i=tailwind,mui&theme=dark" />
         <img width="48" height="48" alt="ShadCN" src="https://github.com/user-attachments/assets/a9954bc5-9c1a-4cef-ba52-171e5414b929" />
@@ -194,7 +194,7 @@ const shadi = {
     </tr>
     <tr>
       <td align="center">
-        <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,django&theme=dark" />
+       <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,spring,django&theme=dark" />
         <img width="45" height="45" alt="Hono" src="https://github.com/user-attachments/assets/cc835db6-881f-454b-91d1-b03bdefe3f69" />
         <img width="45" height="45" alt="FastAPI" src="https://github.com/user-attachments/assets/dc4b5ce4-39cc-4906-93e2-c901ff7a14b4" />
       </td>
@@ -264,6 +264,7 @@ const shadi = {
       </td>
       <td align="center">
         <img src="https://skillicons.dev/icons?i=netlify,vercel&theme=dark" />
+        <img width="50" height="50" alt="Render" src="https://github.com/user-attachments/assets/e0618ce0-eaf9-48be-8719-25624f874541" />
       </td>
       <td align="center">
         <img width="55" height="55" alt="Cloudinary" src="https://github.com/user-attachments/assets/76cfa5c7-d8b0-4ba5-af25-52543f28cbb7" />
