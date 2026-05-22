@@ -46,7 +46,9 @@ const shadi = {
     "Full Stack Web Development (MERN / Node.js ecosystems)",
     "Frontend Engineering (React, Next.js, UI systems)",
     "Backend Systems (APIs, databases, scalable architectures)",
-    "Cross-platform mobile development (React Native)"
+    "Cross-platform mobile development (React Native)",
+    "AI Integration in Full Stack Applications (Web & Mobile)",
+    "Product Design (UI/UX)"
   ],
 
   technicalStrengths: [
@@ -54,7 +56,7 @@ const shadi = {
     "RESTful API design and integration",
     "Database modeling (SQL & NoSQL)",
     "Component-driven UI architecture",
-    "Authentication & state management systems"
+    "AI integration in applications "
   ],
 
   currentlyExpanding: [
@@ -69,7 +71,9 @@ const shadi = {
     "Node.js backend design patterns",
     "React Native mobile apps",
     "API design and database structure",
-    "Full-stack project architecture"
+    "Full-stack project architecture",
+    "Design systems & Figma workflows",
+    "System design & scalable architectures"
   ]
 };
 ```
