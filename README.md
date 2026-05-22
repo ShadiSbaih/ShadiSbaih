@@ -299,6 +299,8 @@ const shadi = {
         <img width="50" height="50" alt="Cypress" src="https://github.com/user-attachments/assets/10abaf4e-0977-4552-bc01-d4a226960c45" />
         <img width="50" height="50" alt="Playwright" src="https://github.com/user-attachments/assets/15678136-b846-4df4-9cbd-36a6d852f172" />
         <img width="50" height="50" alt="Selenium" src="https://github.com/user-attachments/assets/a99d18f4-db1c-4861-9ae1-7427de12f3a9" />
+        <img width="50" height="50" alt="testsprite" src="https://github.com/user-attachments/assets/f39b37ea-c7ff-42ac-8865-65377632f6cf" />
+        <img width="50" height="50" alt="maestro " src="https://github.com/user-attachments/assets/d6fa6419-1c06-4b07-922c-0601ebb38aa2" />
       </td>
       <td align="center">
         <img src="https://skillicons.dev/icons?i=postman&theme=dark" />
@@ -324,7 +326,6 @@ const shadi = {
 </details>
 <br/>
 
-<!-- DEVOPS & TOOLS -->
 
 <!-- DEVOPS & TOOLS -->
 
