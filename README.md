@@ -41,22 +41,35 @@
 const shadi = {
   location: "Palestine",
   education: "B.Sc. Computer Science @ PTUK",
-  
-  specialties: [
-    "Full Stack Development (MERN)",
-    "Cross-Platform Mobile Apps",
-    "API Engineering & Databases"
+
+  focus: [
+    "Full Stack Web Development (MERN / Node.js ecosystems)",
+    "Frontend Engineering (React, Next.js, UI systems)",
+    "Backend Systems (APIs, databases, scalable architectures)",
+    "Cross-platform mobile development (React Native)"
   ],
-  
-  currentlyLearning: [
-    "MongoDB", "PostgreSQL",
-    "Nest.js", "Next.js",
-    "ASP.NET Core"
+
+  technicalStrengths: [
+    "TypeScript-based full-stack development",
+    "RESTful API design and integration",
+    "Database modeling (SQL & NoSQL)",
+    "Component-driven UI architecture",
+    "Authentication & state management systems"
   ],
-  
+
+  currentlyExpanding: [
+    "Spring Boot (Java backend architecture)",
+    "Angular (enterprise frontend applications)",
+    "Cloud & DevOps (Docker, CI/CD, Azure, AWS)",
+    "System design & scalability patterns"
+  ],
+
   askMeAbout: [
-    "React", "Node.js", "TypeScript",
-    "React Native", "Expo", "MySQL"
+    "React / Next.js architecture decisions",
+    "Node.js backend design patterns",
+    "React Native mobile apps",
+    "API design and database structure",
+    "Full-stack project architecture"
   ]
 };
 ```
