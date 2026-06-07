@@ -422,13 +422,7 @@ const shadi = {
 <br/>
 
 
-📊 GitHub Stats
-<br/>
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=shadisbaih&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_radius=8&show_icons=true&count_private=true" />
-  &nbsp;&nbsp;
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shadisbaih&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_radius=8&layout=compact&langs_count=8" />
-</div>
+<h2 align="center">📊 GitHub Stats</h2>
 <br/>
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=shadisbaih&theme=github-dark-blue&background=0d1117&border=21262d&stroke=58a6ff&ring=58a6ff&fire=ff7b72&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=8b949e&hide_border=true" />
@@ -441,7 +435,7 @@ const shadi = {
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=shadisbaih&theme=tokyonight&background=0a0a0f&border=00f5d4&stroke=ffbe0b&ring=00f5d4&fire=00f5d4&currStreakNum=f8f8f2&sideNums=f8f8f2&currStreakLabel=f8f8f2&sideLabels=f8f8f2&dates=f8f8f2&streak=00f5d4&hide_border=true)](https://git.io/streak-stats)
+
 
 </div>
 
