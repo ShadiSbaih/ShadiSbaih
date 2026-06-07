@@ -318,6 +318,7 @@ const shadi = {
 </div>
 </details>
 
+
 <br/>
 <!-- ═══════════════════════════════════════════════════════════════════════════════════════════ -->
 <!--                                   CERTIFICATIONS SECTION                                     -->
@@ -419,6 +420,22 @@ const shadi = {
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <br/>
+
+
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shadisbaih&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=00f5d4&text_color=f8f8f2&icon_color=ffbe0b&ring_color=00f5d4&border_radius=15)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=shadisbaih&theme=tokyonight&background=0a0a0f&border=00f5d4&stroke=ffbe0b&ring=00f5d4&fire=00f5d4&currStreakNum=f8f8f2&sideNums=f8f8f2&currStreakLabel=f8f8f2&sideLabels=f8f8f2&dates=f8f8f2&streak=00f5d4&hide_border=true)](https://git.io/streak-stats)
+
+</div>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════════════════ -->
 <!--                                        GOALS SECTION                                         -->
