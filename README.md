@@ -422,13 +422,21 @@ const shadi = {
 <br/>
 
 
-
+📊 GitHub Stats
+<br/>
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shadisbaih&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=00f5d4&text_color=f8f8f2&icon_color=ffbe0b&ring_color=00f5d4&border_radius=15)
-
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=shadisbaih&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_radius=8&show_icons=true&count_private=true" />
+  &nbsp;&nbsp;
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shadisbaih&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_radius=8&layout=compact&langs_count=8" />
 </div>
-
+<br/>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=shadisbaih&theme=github-dark-blue&background=0d1117&border=21262d&stroke=58a6ff&ring=58a6ff&fire=ff7b72&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=8b949e&hide_border=true" />
+</div>
+<br/>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shadisbaih&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff&hide_border=true&radius=8" width="92%" />
+</div>
 <br/>
 
 <div align="center">
@@ -488,8 +496,6 @@ const shadi = {
 
 <br/>
 
-<!-- DIVIDER -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <br/>
 
