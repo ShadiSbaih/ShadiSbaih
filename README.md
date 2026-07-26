@@ -102,13 +102,13 @@ const shadi = {
 
 ---
 
-**🗣️ Languages**
+<h3 align="center">🗣️ Languages</h3>
 
-<img src="https://skillicons.dev/icons?i=javascript,typescript,python,java,cs,cpp,php,html,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=javascript,typescript,python,java,cs,cpp,php,html,css,go&theme=dark" />
 
 ---
 
-**🖥️ Frontend**
+<h3 align="center">🖥️ Frontend</h3>
 
 | Frameworks | UI / Styling | Build Tools |
 |:---:|:---:|:---:|
@@ -120,7 +120,7 @@ const shadi = {
 
 ---
 
-**📱 Mobile**
+<h3 align="center">📱 Mobile</h3>
 
 | Cross-Platform | Native |
 |:---:|:---:|
@@ -128,7 +128,7 @@ const shadi = {
 
 ---
 
-**⚙️ Backend**
+<h3 align="center">⚙️ Backend</h3>
 
 | Frameworks | ORM / Data Layer | Realtime |
 |:---:|:---:|:---:|
@@ -136,7 +136,7 @@ const shadi = {
 
 ---
 
-**🗄️ Databases & Cloud**
+<h3 align="center">🗄️ Databases & Cloud</h3>
 
 | Databases | BaaS / Backend Platforms | Cloud & Deployment |
 |:---:|:---:|:---:|
@@ -144,7 +144,7 @@ const shadi = {
 
 ---
 
-**🧪 Testing & QA**
+<h3 align="center">🧪 Testing & QA</h3>
 
 | Unit Testing | E2E Testing | API Testing |
 |:---:|:---:|:---:|
@@ -152,7 +152,7 @@ const shadi = {
 
 ---
 
-**🔧 Dev Tools**
+<h3 align="center">🔧 Dev Tools</h3>
 
 | Version Control & CI/CD | IDEs & Design | Project Management |
 |:---:|:---:|:---:|
@@ -269,7 +269,8 @@ const shadi = {
 <h2 align="center">📊 GitHub Stats</h2>
 <br/>
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=shadisbaih&theme=github-dark-blue&background=0d1117&border=21262d&stroke=58a6ff&ring=58a6ff&fire=ff7b72&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=8b949e&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=shadisbaih&theme=github-dark-blue&background=0d1117&border=21262d&stroke=58a6ff&ring=58a6ff&fire=ff7b72&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=8b949e&hide_border=true" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shadisbaih&layout=compact&theme=github_dark&bg_color=0d1117&border_color=21262d&title_color=58a6ff&text_color=c9d1d9&hide_border=true" width="45%" />
 </div>
 <br/>
 <div align="center">
@@ -277,63 +278,130 @@ const shadi = {
 </div>
 <br/>
 
-<div align="center">
+<!-- DIVIDER -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-
-
-</div>
+<br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════════════════ -->
-<!--                                        GOALS SECTION                                         -->
+<!--                     AREAS OF EXPERTISE & PROFESSIONAL FOCUS SECTION                          -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════════════════ -->
 
-<h2 align="center">🎯 Current Focus</h2>
+<h2 align="center">🎯 Areas of Expertise & Professional Focus</h2>
 
 <br/>
 
 <div align="center">
 <table>
 <tr>
-<td>
-<h4>💻 Development</h4>
-<ul>
-<li>Building scalable MERN stack applications</li>
-<li>Expanding mobile development expertise</li>
-<li>Contributing to open source projects</li>
-</ul>
+<td width="50%" valign="top">
+
+<h3 align="center">👥 Engineering Leadership</h3>
+
+<p align="center">
+<img src="https://img.shields.io/badge/R%26D_Engineering_Leadership-8957e5?style=flat-square" alt="R&D Engineering Leadership"/>
+<img src="https://img.shields.io/badge/Technical_Roadmap_Planning-8957e5?style=flat-square" alt="Technical Roadmap Planning"/>
+<img src="https://img.shields.io/badge/Sprint_%26_Engineering_Coordination-8957e5?style=flat-square" alt="Sprint & Engineering Coordination"/>
+<img src="https://img.shields.io/badge/Cross--functional_Team_Collaboration-8957e5?style=flat-square" alt="Cross-functional Team Collaboration"/>
+<img src="https://img.shields.io/badge/Technical_Decision_Making-8957e5?style=flat-square" alt="Technical Decision Making"/>
+<img src="https://img.shields.io/badge/AI%2FML_Project_Leadership-8957e5?style=flat-square" alt="AI/ML Project Leadership"/>
+</p>
+
 </td>
-<td>
-<h4>☁️ Cloud & DevOps</h4>
-<ul>
-<li>Mastering AWS, Azure & Docker</li>
-<li>Implementing CI/CD automation</li>
-<li>Exploring serverless architectures</li>
-</ul>
+<td width="50%" valign="top">
+
+<h3 align="center">🏗️ System Design & Architecture</h3>
+
+<p align="center">
+<img src="https://img.shields.io/badge/REST_API_Architecture-1f6feb?style=flat-square" alt="REST API Architecture"/>
+<img src="https://img.shields.io/badge/SQL_%26_NoSQL_Database_Modeling-1f6feb?style=flat-square" alt="SQL & NoSQL Database Modeling"/>
+<img src="https://img.shields.io/badge/Redis_%26_Caching-1f6feb?style=flat-square" alt="Redis & Caching"/>
+<img src="https://img.shields.io/badge/Queues_%26_Event--Driven_Systems-1f6feb?style=flat-square" alt="Queues & Event-Driven Systems"/>
+<img src="https://img.shields.io/badge/Serverless_Architecture-1f6feb?style=flat-square" alt="Serverless Architecture"/>
+<img src="https://img.shields.io/badge/Distributed_Systems_%26_Microservices-1f6feb?style=flat-square" alt="Distributed Systems & Microservices"/>
+<img src="https://img.shields.io/badge/Multi--tenancy-1f6feb?style=flat-square" alt="Multi-tenancy"/>
+<img src="https://img.shields.io/badge/Scalability_%26_Performance_Optimization-1f6feb?style=flat-square" alt="Scalability & Performance Optimization"/>
+<img src="https://img.shields.io/badge/Cloud_Architecture-1f6feb?style=flat-square" alt="Cloud Architecture"/>
+</p>
+
 </td>
 </tr>
 <tr>
-<td>
-<h4>🏗️ Architecture</h4>
-<ul>
-<li>System design & scalability patterns</li>
-<li>Microservices architecture</li>
-<li>Performance optimization</li>
-</ul>
+<td width="50%" valign="top">
+
+<h3 align="center">📐 Product Engineering</h3>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Product_Requirements_%26_PRDs-2ea043?style=flat-square" alt="Product Requirements & PRDs"/>
+<img src="https://img.shields.io/badge/MVP_Definition-2ea043?style=flat-square" alt="MVP Definition"/>
+<img src="https://img.shields.io/badge/Technical_Product_Architecture-2ea043?style=flat-square" alt="Technical Product Architecture"/>
+<img src="https://img.shields.io/badge/User_Flow_Design-2ea043?style=flat-square" alt="User Flow Design"/>
+<img src="https://img.shields.io/badge/Feature_Planning-2ea043?style=flat-square" alt="Feature Planning"/>
+<img src="https://img.shields.io/badge/UI%2FUX_%26_Product_Design-2ea043?style=flat-square" alt="UI/UX & Product Design"/>
+<img src="https://img.shields.io/badge/Accessibility_%26_SEO_Optimization-2ea043?style=flat-square" alt="Accessibility & SEO Optimization"/>
+</p>
+
 </td>
-<td>
-<h4>✨ Quality & Design</h4>
-<ul>
-<li>Unit, integration & E2E testing</li>
-<li>UI/UX best practices</li>
-<li>Accessibility & SEO optimization</li>
-</ul>
+<td width="50%" valign="top">
+
+<h3 align="center">🧰 Software Engineering Practices</h3>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Clean_Code-d29922?style=flat-square" alt="Clean Code"/>
+<img src="https://img.shields.io/badge/SOLID_Principles-d29922?style=flat-square" alt="SOLID Principles"/>
+<img src="https://img.shields.io/badge/Design_Patterns-d29922?style=flat-square" alt="Design Patterns"/>
+<img src="https://img.shields.io/badge/Authentication_%26_Authorization-d29922?style=flat-square" alt="Authentication & Authorization"/>
+<img src="https://img.shields.io/badge/Error_Handling_%26_Validation-d29922?style=flat-square" alt="Error Handling & Validation"/>
+<img src="https://img.shields.io/badge/Logging-d29922?style=flat-square" alt="Logging"/>
+<img src="https://img.shields.io/badge/Unit%2C_Integration_%26_E2E_Testing-d29922?style=flat-square" alt="Unit, Integration & E2E Testing"/>
+<img src="https://img.shields.io/badge/Quality_Assurance-d29922?style=flat-square" alt="Quality Assurance"/>
+<img src="https://img.shields.io/badge/Code_Review-d29922?style=flat-square" alt="Code Review"/>
+<img src="https://img.shields.io/badge/Git_Flow-d29922?style=flat-square" alt="Git Flow"/>
+<img src="https://img.shields.io/badge/Maintainable_Architecture-d29922?style=flat-square" alt="Maintainable Architecture"/>
+<img src="https://img.shields.io/badge/Developer_Experience-d29922?style=flat-square" alt="Developer Experience"/>
+</p>
+
+</td>
+</tr>
+<tr>
+  <td width="50%" valign="top">
+
+<h3 align="center">🧪 Quality Assurance & Testing</h3>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Quality_Assurance-ff6b6b?style=flat-square" alt="Quality Assurance"/>
+<img src="https://img.shields.io/badge/Test_Planning_%26_Test_Cases-ff6b6b?style=flat-square" alt="Test Planning & Test Cases"/>
+<img src="https://img.shields.io/badge/Functional_%26_Regression_Testing-ff6b6b?style=flat-square" alt="Functional & Regression Testing"/>
+<img src="https://img.shields.io/badge/Unit_%26_Integration_Testing-ff6b6b?style=flat-square" alt="Unit & Integration Testing"/>
+<img src="https://img.shields.io/badge/E2E_Testing-ff6b6b?style=flat-square" alt="E2E Testing"/>
+<img src="https://img.shields.io/badge/API_Testing-ff6b6b?style=flat-square" alt="API Testing"/>
+<img src="https://img.shields.io/badge/Bug_Reporting_%26_Triage-ff6b6b?style=flat-square" alt="Bug Reporting & Triage"/>
+<img src="https://img.shields.io/badge/Defect_Verification_%26_Regression-ff6b6b?style=flat-square" alt="Defect Verification & Regression"/>
+<img src="https://img.shields.io/badge/Test_Automation-ff6b6b?style=flat-square" alt="Test Automation"/>
+<img src="https://img.shields.io/badge/Quality_Assurance_Training-ff6b6b?style=flat-square" alt="Quality Assurance Training"/>
+</p>
+
+</td>
+<td colspan="2" align="center" valign="top">
+
+<h3 align="center">☁️ Cloud & DevOps</h3>
+
+<p align="center">
+<img src="https://img.shields.io/badge/AWS-bc4c00?style=flat-square" alt="AWS"/>
+<img src="https://img.shields.io/badge/Azure-bc4c00?style=flat-square" alt="Azure"/>
+<img src="https://img.shields.io/badge/Cloudflare-bc4c00?style=flat-square" alt="Cloudflare"/>
+<img src="https://img.shields.io/badge/Docker-bc4c00?style=flat-square" alt="Docker"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-bc4c00?style=flat-square" alt="GitHub Actions"/>
+<img src="https://img.shields.io/badge/CI%2FCD_Automation-bc4c00?style=flat-square" alt="CI/CD Automation"/>
+<img src="https://img.shields.io/badge/Cloud_Deployment-bc4c00?style=flat-square" alt="Cloud Deployment"/>
+<img src="https://img.shields.io/badge/Serverless_Architecture-bc4c00?style=flat-square" alt="Serverless Architecture"/>
+<img src="https://img.shields.io/badge/Environment_Configuration-bc4c00?style=flat-square" alt="Environment Configuration"/>
+<img src="https://img.shields.io/badge/Deployment_Automation-bc4c00?style=flat-square" alt="Deployment Automation"/>
+</p>
 </td>
 </tr>
 </table>
 </div>
-
-<br/>
-
 
 <br/>
 
@@ -342,6 +410,8 @@ const shadi = {
 <!-- ═══════════════════════════════════════════════════════════════════════════════════════════ -->
 
 <h2 align="center">📫 Connect With Me</h2>
+
+<p align="center"><sub>Always open to interesting conversations, collaborations, and new opportunities.</sub></p>
 
 <br/>
 
