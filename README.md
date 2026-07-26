@@ -90,103 +90,78 @@ const shadi = {
 <!-- DIVIDER -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 <br/>
+
 <!-- ═══════════════════════════════════════════════════════════════════════════════════════════ -->
 <!--                                     TECH STACK SECTION                                       -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════════════════ -->
 
-Bهيك القسم لحاله، جاهز تلصقه مكان القسم القديم بالـ README:
-
-
 <h2 align="center">🛠️ Tech Stack & Tools</h2>
-<p align="center"><sub>Color-coded by domain — the palette carries through to the expertise map further down</sub></p>
 
 <br/>
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Languages-58a6ff?style=for-the-badge" height="28"/>
+---
 
-<br/><br/>
+<h3 align="center">🗣️ Languages</h3>
 
-<img src="https://skillicons.dev/icons?i=javascript,typescript,python,java,cs,cpp,php,html,css,go&theme=dark" height="48"/>
+<img src="https://skillicons.dev/icons?i=javascript,typescript,python,java,cs,cpp,php,html,css,go&theme=dark" />
 
-<br/><br/><br/>
+---
 
-<img src="https://img.shields.io/badge/Frontend-8957e5?style=for-the-badge" height="28"/>
+<h3 align="center">🖥️ Frontend</h3>
 
-<br/><br/>
+| Frameworks | UI / Styling | Build Tools |
+|:---:|:---:|:---:|
+| <img src="https://skillicons.dev/icons?i=react,nextjs,angular&theme=dark" /> | <img src="https://skillicons.dev/icons?i=tailwind,mui&theme=dark" /><br/><img width="48" height="48" alt="shadcn/ui" src="https://github.com/user-attachments/assets/a9954bc5-9c1a-4cef-ba52-171e5414b929" /> <img width="48" height="48" alt="Chakra UI" src="https://github.com/user-attachments/assets/383093d5-f05a-4f7b-9e65-23acfe74e4ec" /> | <img src="https://skillicons.dev/icons?i=vite,webpack&theme=dark" /> |
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,angular,tailwind,mui,vite,webpack,redux&theme=dark" height="48"/>
-<img height="48" alt="shadcn/ui" src="https://github.com/user-attachments/assets/a9954bc5-9c1a-4cef-ba52-171e5414b929" />
-<img height="48" alt="Chakra UI" src="https://github.com/user-attachments/assets/383093d5-f05a-4f7b-9e65-23acfe74e4ec" />
-<img height="48" alt="Zustand" src="https://github.com/user-attachments/assets/28514fbc-8b8a-4bc6-9428-1258cd7aff97" />
-<img height="48" alt="TanStack Query" src="https://github.com/user-attachments/assets/7f46953b-5599-4728-89a7-ebad020057c5" />
-<img height="48" alt="React Hook Form + Zod" src="https://github.com/user-attachments/assets/15ebed64-a8e4-4822-803f-6cda88d63e66" />
-<img height="48" alt="Axios" src="https://github.com/user-attachments/assets/acdb8628-1ea2-411b-9130-290956445f0f" />
+| State Management | Data Fetching | Forms & Validation | HTTP Client |
+|:---:|:---:|:---:|:---:|
+| <img src="https://skillicons.dev/icons?i=redux&theme=dark" height="55" /> <img width="50" height="50" alt="Zustand" src="https://github.com/user-attachments/assets/28514fbc-8b8a-4bc6-9428-1258cd7aff97" /> | <img width="55" height="55" alt="TanStack Query" src="https://github.com/user-attachments/assets/7f46953b-5599-4728-89a7-ebad020057c5" /> | <img width="50" height="50" alt="React Hook Form + Zod" src="https://github.com/user-attachments/assets/15ebed64-a8e4-4822-803f-6cda88d63e66" /> | <img width="50" height="50" alt="Axios" src="https://github.com/user-attachments/assets/acdb8628-1ea2-411b-9130-290956445f0f" /> |
 
-<br/><br/><br/>
+---
 
-<img src="https://img.shields.io/badge/Mobile-2ea043?style=for-the-badge" height="28"/>
+<h3 align="center">📱 Mobile</h3>
 
-<br/><br/>
+| Cross-Platform | Native |
+|:---:|:---:|
+| <img width="60" height="60" alt="React Native" src="https://github.com/user-attachments/assets/1ff92aae-a2e8-410f-abf2-c9198a0a4c93" /> <img width="55" height="60" alt="Expo" src="https://github.com/user-attachments/assets/3334a89d-3065-4c7b-b78b-72e2a518b156" /> | <img width="55" height="55" alt="Kotlin" src="https://github.com/user-attachments/assets/68e62dd1-f9da-4737-b9ab-bb20effa752d" /> |
 
-<img height="48" alt="React Native" src="https://github.com/user-attachments/assets/1ff92aae-a2e8-410f-abf2-c9198a0a4c93" />
-<img height="48" alt="Expo" src="https://github.com/user-attachments/assets/3334a89d-3065-4c7b-b78b-72e2a518b156" />
-<img height="48" alt="Kotlin" src="https://github.com/user-attachments/assets/68e62dd1-f9da-4737-b9ab-bb20effa752d" />
+---
 
-<br/><br/><br/>
+<h3 align="center">⚙️ Backend</h3>
 
-<img src="https://img.shields.io/badge/Backend-1f6feb?style=for-the-badge" height="28"/>
+| Frameworks | ORM / Data Layer | Realtime |
+|:---:|:---:|:---:|
+| <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,spring,django&theme=dark" /><br/><img width="45" height="45" alt="Hono" src="https://github.com/user-attachments/assets/cc835db6-881f-454b-91d1-b03bdefe3f69" /> <img width="45" height="45" alt="FastAPI" src="https://github.com/user-attachments/assets/dc4b5ce4-39cc-4906-93e2-c901ff7a14b4" /> | <img width="50" height="50" alt="Prisma" src="https://github.com/user-attachments/assets/c18d5396-b46b-47d9-a872-e61f50ecd7f8" /> <img width="50" height="50" alt="TypeORM" src="https://github.com/user-attachments/assets/fa037acc-460a-4fa4-9c8b-fe874b9f28f0" /> | <img width="50" height="50" alt="Socket.io" src="https://github.com/user-attachments/assets/2f66ca7d-56c2-48e4-900d-d99a1d8d9d32" /> |
 
-<br/><br/>
+---
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,spring,django&theme=dark" height="48"/>
-<img height="48" alt="Hono" src="https://github.com/user-attachments/assets/cc835db6-881f-454b-91d1-b03bdefe3f69" />
-<img height="48" alt="FastAPI" src="https://github.com/user-attachments/assets/dc4b5ce4-39cc-4906-93e2-c901ff7a14b4" />
-<img height="48" alt="Prisma" src="https://github.com/user-attachments/assets/c18d5396-b46b-47d9-a872-e61f50ecd7f8" />
-<img height="48" alt="TypeORM" src="https://github.com/user-attachments/assets/fa037acc-460a-4fa4-9c8b-fe874b9f28f0" />
-<img height="48" alt="Socket.io" src="https://github.com/user-attachments/assets/2f66ca7d-56c2-48e4-900d-d99a1d8d9d32" />
+<h3 align="center">🗄️ Databases & Cloud</h3>
 
-<br/><br/><br/>
+| Databases | BaaS / Backend Platforms | Cloud & Deployment |
+|:---:|:---:|:---:|
+| <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb&theme=dark" /> | <img src="https://skillicons.dev/icons?i=firebase,supabase,appwrite&theme=dark" /><br/><img width="50" height="50" alt="Convex" src="https://github.com/user-attachments/assets/a16b3b0e-1d25-4393-bae9-d4b6e4bf12e2" /> | <img src="https://skillicons.dev/icons?i=aws,azure,docker&theme=dark" /><br/><img src="https://skillicons.dev/icons?i=vercel,netlify&theme=dark" /> <img width="50" height="50" alt="Render" src="https://github.com/user-attachments/assets/e0618ce0-eaf9-48be-8719-25624f874541" /> |
 
-<img src="https://img.shields.io/badge/Databases_%26_Cloud-bc4c00?style=for-the-badge" height="28"/>
+---
 
-<br/><br/>
+<h3 align="center">🧪 Testing & QA</h3>
 
-<img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,firebase,supabase,appwrite&theme=dark" height="48"/>
-<img height="48" alt="Convex" src="https://github.com/user-attachments/assets/a16b3b0e-1d25-4393-bae9-d4b6e4bf12e2" />
+| Unit Testing | E2E Testing | API Testing |
+|:---:|:---:|:---:|
+| <img src="https://skillicons.dev/icons?i=jest&theme=dark" /> <img width="50" height="50" alt="Vitest" src="https://github.com/user-attachments/assets/4a4b760d-58e7-4c9a-98b2-d7d3a9927ae9" /> | <img width="50" height="50" alt="Cypress" src="https://github.com/user-attachments/assets/10abaf4e-0977-4552-bc01-d4a226960c45" /> <img width="50" height="50" alt="Playwright" src="https://github.com/user-attachments/assets/15678136-b846-4df4-9cbd-36a6d852f172" /> | <img src="https://skillicons.dev/icons?i=postman&theme=dark" /> <img width="50" height="50" alt="Supertest" src="https://github.com/user-attachments/assets/8438f634-1c89-4d8c-b6b9-a16e6bb17027" /> <img width="55" height="55" alt="Swagger" src="https://github.com/user-attachments/assets/4696d828-5716-41db-ac62-f85a89a1b493" /> |
 
-<br/><br/>
+---
 
-<img src="https://skillicons.dev/icons?i=aws,azure,docker,vercel,netlify&theme=dark" height="48"/>
-<img height="48" alt="Render" src="https://github.com/user-attachments/assets/e0618ce0-eaf9-48be-8719-25624f874541" />
+<h3 align="center">🔧 Dev Tools</h3>
 
-<br/><br/><br/>
+| Version Control & CI/CD | IDEs & Design | Project Management |
+|:---:|:---:|:---:|
+| <img src="https://skillicons.dev/icons?i=git,github,githubactions&theme=dark" /> | <img src="https://skillicons.dev/icons?i=vscode,figma&theme=dark" /> <img width="50" height="50" alt="Android Studio" src="https://github.com/user-attachments/assets/82066c35-a559-4d36-af11-b6b6436e6679" /> | <img width="50" height="50" alt="Jira" src="https://github.com/user-attachments/assets/a4fb4ce8-4956-4d75-b902-c6347a73bc77" /> <img width="50" height="50" alt="Linear" src="https://github.com/user-attachments/assets/49909429-909f-4931-ba6c-c2b6d8c25554" /> |
 
-<img src="https://img.shields.io/badge/Testing_%26_QA-ff6b6b?style=for-the-badge" height="28"/>
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=jest,postman&theme=dark" height="48"/>
-<img height="48" alt="Vitest" src="https://github.com/user-attachments/assets/4a4b760d-58e7-4c9a-98b2-d7d3a9927ae9" />
-<img height="48" alt="Cypress" src="https://github.com/user-attachments/assets/10abaf4e-0977-4552-bc01-d4a226960c45" />
-<img height="48" alt="Playwright" src="https://github.com/user-attachments/assets/15678136-b846-4df4-9cbd-36a6d852f172" />
-<img height="48" alt="Supertest" src="https://github.com/user-attachments/assets/8438f634-1c89-4d8c-b6b9-a16e6bb17027" />
-<img height="48" alt="Swagger" src="https://github.com/user-attachments/assets/4696d828-5716-41db-ac62-f85a89a1b493" />
-
-<br/><br/><br/>
-
-<img src="https://img.shields.io/badge/Dev_Tools-d29922?style=for-the-badge" height="28"/>
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,figma&theme=dark" height="48"/>
-<img height="48" alt="Android Studio" src="https://github.com/user-attachments/assets/82066c35-a559-4d36-af11-b6b6436e6679" />
-<img height="48" alt="Jira" src="https://github.com/user-attachments/assets/a4fb4ce8-4956-4d75-b902-c6347a73bc77" />
-<img height="48" alt="Linear" src="https://github.com/user-attachments/assets/49909429-909f-4931-ba6c-c2b6d8c25554" />
+---
 
 </div>
-
 
 
 <br/>
