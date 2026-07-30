@@ -47,6 +47,7 @@ const shadi = {
     "Frontend Engineering (React, Next.js, UI systems)",
     "Backend Systems (APIs, databases, scalable architectures)",
     "Cross-platform mobile development (React Native)",
+    "Cross-platform desktop development (Tauri, Wails)",
     "AI Integration in Full Stack Applications (Web & Mobile)",
     "Product Design (UI/UX)"
   ],
@@ -105,7 +106,7 @@ const shadi = {
 
 <h3 align="center">🗣️ Languages</h3>
 
-<img src="https://skillicons.dev/icons?i=javascript,typescript,python,java,cs,cpp,php,html,css,go&theme=dark" />
+<img src="https://skillicons.dev/icons?i=javascript,typescript,python,java,cs,cpp,rust,php,html,css,go&theme=dark" />
 
 ---
 
@@ -126,6 +127,15 @@ const shadi = {
 | Cross-Platform | Native |
 |:---:|:---:|
 | <img width="60" height="60" alt="React Native" src="https://github.com/user-attachments/assets/1ff92aae-a2e8-410f-abf2-c9198a0a4c93" /> <img width="55" height="60" alt="Expo" src="https://github.com/user-attachments/assets/3334a89d-3065-4c7b-b78b-72e2a518b156" /> | <img width="55" height="55" alt="Kotlin" src="https://github.com/user-attachments/assets/68e62dd1-f9da-4737-b9ab-bb20effa752d" /> |
+
+---
+
+<h3 align="center">🖳 Desktop</h3>
+
+| Cross-Platform Frameworks |
+|:---:|
+| <img src="https://skillicons.dev/icons?i=tauri,rust&theme=dark" /> <img width="50" height="50" alt="Wails" src="https://github.com/user-attachments/assets/49233797-4ed6-4983-8936-9e4864423a74" /> |
+
 
 ---
 
