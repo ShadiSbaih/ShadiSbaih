@@ -64,38 +64,31 @@ const shadi = {
   education: "B.Sc. Computer Science @ PTUK",
 
   focus: [
-    "Full Stack Web Development (MERN / Node.js ecosystems)",
-    "Frontend Engineering (React, Next.js, UI systems)",
-    "Backend Systems (APIs, databases, scalable architectures)",
-    "Cross-platform mobile development (React Native)",
-    "Cross-platform desktop development (Tauri, Wails)",
-    "AI Integration in Full Stack Applications (Web & Mobile)",
-    "Product Design (UI/UX)"
+    "Full-stack web,desktop and mobile development",
+    "Frontend engineering and UI systems",
+    "Backend APIs and scalable architectures",
+    "Cross-platform mobile and desktop development",
+    "AI integration and product design"
   ],
 
-  technicalStrengths: [
-    "TypeScript-based full-stack development",
-    "RESTful API design and integration",
-    "Database modeling (SQL & NoSQL)",
+  technicalFocus: [
+    "TypeScript full-stack development",
+    "RESTful API design",
+    "SQL and NoSQL database modeling",
     "Component-driven UI architecture",
-    "AI integration in applications"
-  ],
-
-  currentlyExpanding: [
-    "Spring Boot (Java backend architecture)",
-    "Angular (enterprise frontend applications)",
-    "Cloud & DevOps (Docker, CI/CD, Azure, AWS)",
-    "System design & scalability patterns"
+    "Spring Boot and Angular",
+    "Docker, CI/CD, Azure, and AWS",
+    "System design and scalability"
   ],
 
   askMeAbout: [
-    "React / Next.js architecture decisions",
+    "React and Next.js architecture",
     "Node.js backend design patterns",
-    "React Native mobile apps",
-    "API design and database structure",
+    "React Native applications",
+    "API and database design",
     "Full-stack project architecture",
-    "Design systems & Figma workflows",
-    "System design & scalable architectures"
+    "Design systems and Figma workflows",
+    "Scalable system architecture"
   ]
 };
 ```
@@ -109,11 +102,14 @@ const shadi = {
 
 ```text
 PRODUCT THINKING
-       ×
+       ↓
 SOFTWARE ENGINEERING
-       ×
+       ↓
 CLEAN ARCHITECTURE
+-------------------------------------
+Ideas transformed into scalable products.
 ```
+
 
 </td>
 </tr>
