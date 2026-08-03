@@ -1,6 +1,11 @@
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════════ -->
-<!--                                    SHADI SBAIH - GITHUB README                               -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════════ -->
+<!--
+  ╭──────────────────────────────────────────────────────────────────────────╮
+  │                         SHADI SBAIH — PROFILE                           │
+  │              Full Stack Developer • Software Engineer                  │
+  ╰──────────────────────────────────────────────────────────────────────────╯
+-->
+
+<div align="center">
 
 <!-- HEADER SECTION -->
 <div align="center">
@@ -8,34 +13,50 @@
 </div>
 
 
-<!-- TYPING ANIMATION -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Building+Scalable+Web+Applications;Crafting+Cross-Platform+Mobile+Solutions" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=7DD3FC&center=true&vCenter=true&repeat=true&width=760&height=55&lines=Building+scalable+web+applications;Crafting+cross-platform+mobile+solutions;Designing+clean%2C+maintainable+software+systems;Integrating+AI+into+real-world+products" alt="Typing introduction"/>
+
+<br/>
+
+<a href="https://shadisbaih.netlify.app">
+  <img src="https://img.shields.io/badge/PORTFOLIO-111827?style=for-the-badge&logo=vercel&logoColor=7DD3FC" alt="Portfolio"/>
+</a>
+<a href="https://linkedin.com/in/shadi-sbaih">
+  <img src="https://img.shields.io/badge/LINKEDIN-111827?style=for-the-badge&logo=linkedin&logoColor=7DD3FC" alt="LinkedIn"/>
+</a>
+<a href="mailto:shadisbaih.dev@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-111827?style=for-the-badge&logo=gmail&logoColor=7DD3FC" alt="Email"/>
+</a>
+<img src="https://komarev.com/ghpvc/?username=shadisbaih&label=PROFILE+VIEWS&color=111827&style=for-the-badge&labelColor=111827" alt="Profile views"/>
+
+<br/><br/>
+
+<sub>
+  <a href="#-profile">PROFILE</a>
+  &nbsp;•&nbsp;
+  <a href="#-technology-map">TECHNOLOGY MAP</a>
+  &nbsp;•&nbsp;
+  <a href="#-certifications--achievements">CERTIFICATIONS</a>
+  &nbsp;•&nbsp;
+  <a href="#-github-performance">GITHUB</a>
+  &nbsp;•&nbsp;
+  <a href="#-professional-focus">EXPERTISE</a>
+  &nbsp;•&nbsp;
+  <a href="#-lets-connect">CONTACT</a>
+</sub>
+
 </div>
 
 <br/>
 
-<!-- PROFILE VIEWS COUNTER -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=shadisbaih&label=Profile%20Views&color=161b22&style=for-the-badge&labelColor=0d1117" alt="Profile Views" />
-</div>
+---
 
-<br/>
+## ◈ Profile
 
-<!-- DIVIDER -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════════ -->
-<!--                                        ABOUT ME SECTION                                      -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════════ -->
-
-<table align="center" border="0">
+<table>
 <tr>
-<td width="50%" valign="top">
+<td width="57%" valign="top">
 
-## About Me
+### `shadi.profile.ts`
 
 ```typescript
 const shadi = {
@@ -57,7 +78,7 @@ const shadi = {
     "RESTful API design and integration",
     "Database modeling (SQL & NoSQL)",
     "Component-driven UI architecture",
-    "AI integration in applications "
+    "AI integration in applications"
   ],
 
   currentlyExpanding: [
@@ -80,23 +101,33 @@ const shadi = {
 ```
 
 </td>
-<td width="50%" align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="400"/>
+<td width="43%" align="center" valign="middle">
+
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="360" alt="Developer animation"/>
+
+<br/>
+
+```text
+PRODUCT THINKING
+       ×
+SOFTWARE ENGINEERING
+       ×
+CLEAN ARCHITECTURE
+```
+
 </td>
 </tr>
 </table>
 
-<br/>
+---
 
-<!-- DIVIDER -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-<br/>
+## ◈ Technology Map
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════════ -->
-<!--                                     TECH STACK SECTION                                       -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════════ -->
+<div align="center">
 
-<h2 align="center">🛠️ Tech Stack & Tools</h2>
+> A practical toolkit spanning product interfaces, backend architecture, data, cloud, testing, and delivery.
+
+</div>
 
 <br/>
 
@@ -175,11 +206,16 @@ const shadi = {
 
 
 <br/>
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════════ -->
-<!--                                   CERTIFICATIONS SECTION                                     -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════════ -->
 
-<h2 align="center">🏆 Certifications & Achievements</h2>
+---
+
+## ◈ Certifications & Achievements
+
+<div align="center">
+
+> Continuous learning across full-stack development, mobile engineering, cloud, data, and developer tooling.
+
+</div>
 
 <br/>
 
@@ -260,7 +296,6 @@ const shadi = {
 
 <br/>
 
-<!-- BADGE COLLECTION -->
 <div align="center">
   <img src="https://img.shields.io/badge/Oracle-Certified-F80000?style=for-the-badge&logo=oracle&logoColor=white&labelColor=0d1117" />
   <img src="https://img.shields.io/badge/Google-Certified-4285F4?style=for-the-badge&logo=google&logoColor=white&labelColor=0d1117" />
@@ -271,13 +306,10 @@ const shadi = {
 
 <br/>
 
-<!-- DIVIDER -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+---
 
-<br/>
+## ◈ GitHub Performance
 
-
-<h2 align="center">📊 GitHub Stats</h2>
 <br/>
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=shadisbaih&theme=github-dark-blue&background=0d1117&border=21262d&stroke=58a6ff&ring=58a6ff&fire=ff7b72&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=8b949e&hide_border=true" width="49%" />
@@ -289,16 +321,15 @@ const shadi = {
 </div>
 <br/>
 
-<!-- DIVIDER -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+---
 
-<br/>
+## ◈ Professional Focus
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════════ -->
-<!--                     AREAS OF EXPERTISE & PROFESSIONAL FOCUS SECTION                          -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════════ -->
+<div align="center">
 
-<h2 align="center">🎯 Areas of Expertise & Professional Focus</h2>
+> Building products end-to-end—from requirements and user flows to scalable services, quality assurance, and reliable deployment.
+
+</div>
 
 <br/>
 
@@ -416,11 +447,9 @@ const shadi = {
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════════ -->
-<!--                                       CONTACT SECTION                                        -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════════ -->
+---
 
-<h2 align="center">📫 Connect With Me</h2>
+## ◈ Let's Connect
 
 <p align="center"><sub>Always open to interesting conversations, collaborations, and new opportunities.</sub></p>
 
@@ -449,21 +478,22 @@ const shadi = {
 
 <br/>
 
-<!-- QUOTE -->
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it,%20it%E2%80%99s%20bad.&author=Cory%20House" alt="Dev Quote" width="550"/>
 </div>
 <br/>
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════════ -->
-<!--                                       FOOTER SECTION                                         -->
-<!-- ═══════════════════════════════════════════════════════════════════════════════════════════ -->
+
+---
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Powered%20By-Coffee%20%E2%98%95-6F4E37?style=for-the-badge&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/Made%20In-Palestine%20%F0%9F%87%B5%F0%9F%87%B8-000000?style=for-the-badge&labelColor=0d1117" />
-</div>
 
-<br/>
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:87CEFA,50:ADD8E6,100:BFEFFF&height=120&section=footer"/>
+### `build. learn. improve. repeat.`
+
+<img src="https://img.shields.io/badge/POWERED_BY-COFFEE-111827?style=for-the-badge&logo=buymeacoffee&logoColor=FBBF24" alt="Powered by coffee"/>
+<img src="https://img.shields.io/badge/MADE_IN-PALESTINE-111827?style=for-the-badge&logoColor=white" alt="Made in Palestine"/>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=125&section=footer&color=0:050816,42:111B3C,72:6C4DFF,100:16C7FF" width="100%" alt="Footer"/>
+
 </div>
