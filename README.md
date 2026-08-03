@@ -143,9 +143,10 @@ CLEAN ARCHITECTURE
 
 <h3 align="center">🖥️ Frontend</h3>
 
-| Frameworks | UI / Styling | Build Tools |
-|:---:|:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=react,nextjs,angular&theme=dark" /> | <img src="https://skillicons.dev/icons?i=tailwind,mui&theme=dark" /><br/><img width="48" height="48" alt="shadcn/ui" src="https://github.com/user-attachments/assets/a9954bc5-9c1a-4cef-ba52-171e5414b929" /> <img width="48" height="48" alt="Chakra UI" src="https://github.com/user-attachments/assets/383093d5-f05a-4f7b-9e65-23acfe74e4ec" /> | <img src="https://skillicons.dev/icons?i=vite,webpack&theme=dark" /> |
+|                                  Frameworks                                  |                                                                                                                                                                    UI / Styling                                                                                                                                                                    |
+| :--------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| <img src="https://skillicons.dev/icons?i=react,nextjs,angular&theme=dark" /> | <img src="https://skillicons.dev/icons?i=tailwind,mui&theme=dark" /><br/><img width="48" height="48" alt="shadcn/ui" src="https://github.com/user-attachments/assets/a9954bc5-9c1a-4cef-ba52-171e5414b929" /> <img width="48" height="48" alt="Chakra UI" src="https://github.com/user-attachments/assets/383093d5-f05a-4f7b-9e65-23acfe74e4ec" /> |
+
 
 | State Management | Data Fetching | Forms & Validation | HTTP Client |
 |:---:|:---:|:---:|:---:|
