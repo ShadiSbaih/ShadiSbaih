@@ -180,7 +180,7 @@ Ideas transformed into scalable products.
 
 ### 🗄️ Databases & Cloud
 
-<img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,firebase,supabase,appwrite,aws,azure,docker,vercel,netlify&theme=dark" />
+<img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,firebase,supabase,aws,azure,docker,vercel,netlify&theme=dark" />
 
 <br/>
 
