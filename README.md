@@ -351,50 +351,51 @@ Backend:
 
 <br/>
 
-<!-- GitHub overview / contribution history -->
+<!-- Contribution Heatmap -->
 <img
-  src="./profile-cards/overview.dark.svg"
-  width="92%"
-  alt="GitHub Overview"
+  src="https://ghchart.rshah.org/58a6ff/shadisbaih"
+  width="94%"
+  alt="GitHub Contribution Heatmap"
 />
 
 <br/><br/>
 
-<!-- Streak + contribution composition -->
+<!-- Main Profile Details -->
 <img
-  src="./profile-cards/streak.dark.svg"
-  width="46%"
-  alt="GitHub Streak"
-/>
-
-<img
-  src="./profile-cards/contributions.dark.svg"
-  width="46%"
-  alt="GitHub Contributions"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shadisbaih&theme=github_dark"
+  width="94%"
+  alt="GitHub Profile Details"
 />
 
 <br/><br/>
 
-<!-- Activity rhythm -->
+<!-- Stats -->
 <img
-  src="./profile-cards/activity.dark.svg"
-  width="92%"
-  alt="GitHub Activity"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shadisbaih&theme=github_dark"
+  width="48%"
+  alt="GitHub Stats"
+/>
+
+<!-- Repositories by Language -->
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shadisbaih&theme=github_dark"
+  width="48%"
+  alt="Repositories Per Language"
 />
 
 <br/><br/>
 
-<!-- Language distribution -->
+<!-- Most Used Languages by Commits -->
 <img
-  src="./profile-cards/languages.dark.svg"
-  width="92%"
-  alt="Languages"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shadisbaih&theme=github_dark"
+  width="48%"
+  alt="Most Commit Language"
 />
 
-<br/>
+<br/><br/>
 
 <sub>
-  Contribution history • streaks • activity rhythm • language distribution
+  Contributions • repositories • commits • language distribution • development activity
 </sub>
 
 </div>
