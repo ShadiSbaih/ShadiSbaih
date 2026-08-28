@@ -248,14 +248,15 @@ Backend:
 <tr>
 
 <td align="center" width="33%">
-  <img width="280" alt="JavaScript Developer" src="https://github.com/user-attachments/assets/84e3ecf3-3220-4bf5-b1e1-a3649cc3f2e7" />
+<img width="280" alt="Devops" src="https://github.com/user-attachments/assets/c2b40b7e-782f-4d34-8763-9e01c812eb32" />
+
   <br/><br/>
-  <strong>JavaScript Developer</strong>
+  <strong>Oracle Cloud DevOps </strong>
   <br/>
   <sub>Udacity • 2025</sub>
   <br/><br/>
   <a href="https://www.udacity.com/certificate/e/7a5cde36-70a2-11f0-be9e-7fcaf7e5e23b">
-    <img src="https://img.shields.io/badge/View_Certificate-0d1117?style=for-the-badge&logo=udacity&logoColor=02B3E4" />
+    <img src="https://img.shields.io/badge/View_Certificate-0d1117?style=for-the-badge&logo=oracle&logoColor=02B3E4" />
   </a>
 </td>
 
