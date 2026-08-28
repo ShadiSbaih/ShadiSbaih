@@ -253,9 +253,10 @@ Backend:
   <br/><br/>
   <strong>Oracle Cloud DevOps </strong>
   <br/>
-  <sub>Udacity • 2025</sub>
+  <sub>Oracle • 2025</sub>
   <br/><br/>
-  <a href="https://www.udacity.com/certificate/e/7a5cde36-70a2-11f0-be9e-7fcaf7e5e23b">
+
+  <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=9C0AB0A7A3E61BDD0859052308320E865B4CD7080C074270840779CF6652D16C">
     <img src="https://img.shields.io/badge/View_Certificate-0d1117?style=for-the-badge&logo=oracle&logoColor=02B3E4" />
   </a>
 </td>
