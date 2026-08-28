@@ -12,7 +12,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0d6efd,100:58a6ff&height=200&section=header&text=Shadi%20Sbaih&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20Software%20Engineer&descSize=18&descAlignY=55&descAlign=50&animation=fadeIn" width="100%"/>
 </div>
 
-
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=7DD3FC&center=true&vCenter=true&repeat=true&width=760&height=55&lines=Building+scalable+web+applications;Crafting+cross-platform+mobile+solutions;Designing+clean%2C+maintainable+software+systems;Integrating+AI+into+real-world+products" alt="Typing introduction"/>
 
 <br/>
@@ -37,7 +36,7 @@
   &nbsp;•&nbsp;
   <a href="#-certifications--achievements">CERTIFICATIONS</a>
   &nbsp;•&nbsp;
-  <a href="#-github-performance">GITHUB</a>
+  <a href="#-github-activity">GITHUB</a>
   &nbsp;•&nbsp;
   <a href="#-professional-focus">EXPERTISE</a>
   &nbsp;•&nbsp;
@@ -94,6 +93,7 @@ const shadi = {
 ```
 
 </td>
+
 <td width="43%" align="center" valign="middle">
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="360" alt="Developer animation"/>
@@ -110,7 +110,6 @@ CLEAN ARCHITECTURE
 Ideas transformed into scalable products.
 ```
 
-
 </td>
 </tr>
 </table>
@@ -123,13 +122,32 @@ Ideas transformed into scalable products.
 
 > A practical toolkit spanning product interfaces, backend architecture, data, cloud, testing, and delivery.
 
+<!--
+Parked / currently hidden technologies
+
+Languages:
+<img src="https://skillicons.dev/icons?i=cs,cpp,rust,php,go&theme=dark" />
+
+Mobile:
+<img width="52" height="52" alt="Kotlin" src="https://github.com/user-attachments/assets/68e62dd1-f9da-4737-b9ab-bb20effa752d" />
+
+Desktop:
+<img src="https://skillicons.dev/icons?i=tauri&theme=dark" />
+<img width="50" height="50" alt="Wails" src="https://github.com/user-attachments/assets/49233797-4ed6-4983-8936-9e4864423a74" />
+
+Backend:
+<img src="https://skillicons.dev/icons?i=django,rust&theme=dark" />
+<img width="45" height="45" alt="Hono" src="https://github.com/user-attachments/assets/cc835db6-881f-454b-91d1-b03bdefe3f69" />
+<img width="50" height="50" alt="Gin" src="https://github.com/user-attachments/assets/f6f1df04-9bd5-4771-ba18-875877af582d" />
+-->
+
 <br/>
 
 ---
 
 ### 🗣️ Languages
 
-<img src="https://skillicons.dev/icons?i=javascript,typescript,python,java,cs,cpp,rust,php,html,css,go&theme=dark" />
+<img src="https://skillicons.dev/icons?i=javascript,typescript,python,java,html,css&theme=dark" />
 
 ---
 
@@ -152,26 +170,16 @@ Ideas transformed into scalable products.
 
 <img width="58" height="58" alt="React Native" src="https://github.com/user-attachments/assets/1ff92aae-a2e8-410f-abf2-c9198a0a4c93" />
 <img width="54" height="58" alt="Expo" src="https://github.com/user-attachments/assets/3334a89d-3065-4c7b-b78b-72e2a518b156" />
-<img width="52" height="52" alt="Kotlin" src="https://github.com/user-attachments/assets/68e62dd1-f9da-4737-b9ab-bb20effa752d" />
-
----
-
-### 🖳 Desktop
-
-<img src="https://skillicons.dev/icons?i=tauri&theme=dark" />
-<img width="50" height="50" alt="Wails" src="https://github.com/user-attachments/assets/49233797-4ed6-4983-8936-9e4864423a74" />
 
 ---
 
 ### ⚙️ Backend
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,spring,django,rust&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,spring&theme=dark" />
 
 <br/>
 
-<img width="45" height="45" alt="Hono" src="https://github.com/user-attachments/assets/cc835db6-881f-454b-91d1-b03bdefe3f69" />
 <img width="45" height="45" alt="FastAPI" src="https://github.com/user-attachments/assets/dc4b5ce4-39cc-4906-93e2-c901ff7a14b4" />
-<img width="50" height="50" alt="Gin" src="https://github.com/user-attachments/assets/f6f1df04-9bd5-4771-ba18-875877af582d" />
 <img width="50" height="50" alt="Prisma" src="https://github.com/user-attachments/assets/c18d5396-b46b-47d9-a872-e61f50ecd7f8" />
 <img width="50" height="50" alt="TypeORM" src="https://github.com/user-attachments/assets/fa037acc-460a-4fa4-9c8b-fe874b9f28f0" />
 <img width="50" height="50" alt="Socket.io" src="https://github.com/user-attachments/assets/2f66ca7d-56c2-48e4-900d-d99a1d8d9d32" />
@@ -191,9 +199,9 @@ Ideas transformed into scalable products.
 
 ### 🧪 Testing & QA
 
-<img src="https://skillicons.dev/icons?i=jest,postman&theme=dark" />  <img width="48" height="48" alt="apidog" src="https://github.com/user-attachments/assets/d01ebccf-1e6b-4e66-bcb7-7774978f5efa" />  <img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/b68c0ff2-1e3e-4b0f-88c5-3aab8e79f78d" />
-
-
+<img src="https://skillicons.dev/icons?i=jest,postman&theme=dark" />
+<img width="48" height="48" alt="Apidog" src="https://github.com/user-attachments/assets/d01ebccf-1e6b-4e66-bcb7-7774978f5efa" />
+<img width="48" height="48" alt="Testing Tool" src="https://github.com/user-attachments/assets/b68c0ff2-1e3e-4b0f-88c5-3aab8e79f78d" />
 
 <br/>
 
@@ -207,9 +215,8 @@ Ideas transformed into scalable products.
 
 ### 🔧 Dev Tools
 
-
 <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,vscode,figma,npm,pnpm,linux,bash&theme=dark" />
-<img width="48" height="48" alt="storybook " src="https://github.com/user-attachments/assets/8ad065a2-90c4-4368-bd80-7b55997287b7" />
+<img width="48" height="48" alt="Storybook" src="https://github.com/user-attachments/assets/8ad065a2-90c4-4368-bd80-7b55997287b7" />
 
 <br/>
 
@@ -220,8 +227,6 @@ Ideas transformed into scalable products.
 ---
 
 </div>
-
-
 
 <br/>
 
@@ -238,8 +243,10 @@ Ideas transformed into scalable products.
 <br/>
 
 <div align="center">
+
 <table>
 <tr>
+
 <td align="center" width="33%">
   <img width="280" alt="JavaScript Developer" src="https://github.com/user-attachments/assets/84e3ecf3-3220-4bf5-b1e1-a3649cc3f2e7" />
   <br/><br/>
@@ -251,6 +258,7 @@ Ideas transformed into scalable products.
     <img src="https://img.shields.io/badge/View_Certificate-0d1117?style=for-the-badge&logo=udacity&logoColor=02B3E4" />
   </a>
 </td>
+
 <td align="center" width="33%">
   <img width="280" alt="Full Stack Application Development" src="https://github.com/user-attachments/assets/1fda6798-8d4e-410c-989b-488563d87d5c" />
   <br/><br/>
@@ -262,6 +270,7 @@ Ideas transformed into scalable products.
     <img src="https://img.shields.io/badge/View_Certificate-0d1117?style=for-the-badge&logo=ibm&logoColor=white" />
   </a>
 </td>
+
 <td align="center" width="33%">
   <img width="280" alt="Data Scientist" src="https://github.com/user-attachments/assets/30d82e3f-7f07-4e30-8c0f-cf40f0783fd2" />
   <br/><br/>
@@ -273,8 +282,11 @@ Ideas transformed into scalable products.
     <img src="https://img.shields.io/badge/View_Certificate-0d1117?style=for-the-badge&logo=datacamp&logoColor=03EF62" />
   </a>
 </td>
+
 </tr>
+
 <tr>
+
 <td align="center" width="33%">
   <img width="280" alt="React Native" src="https://github.com/user-attachments/assets/0c961bc9-93c8-4c91-a2ac-8bfae93fa8a0" />
   <br/><br/>
@@ -286,6 +298,7 @@ Ideas transformed into scalable products.
     <img src="https://img.shields.io/badge/View_Certificate-0d1117?style=for-the-badge&logo=meta&logoColor=0668E1" />
   </a>
 </td>
+
 <td align="center" width="33%">
   <img width="280" alt="Azure Fundamentals" src="https://github.com/user-attachments/assets/d8e638c5-e34e-48e7-8f07-7e73a8bac9ca" />
   <br/><br/>
@@ -297,6 +310,7 @@ Ideas transformed into scalable products.
     <img src="https://img.shields.io/badge/View_Certificate-0d1117?style=for-the-badge&logo=microsoft&logoColor=00A4EF" />
   </a>
 </td>
+
 <td align="center" width="33%">
   <img width="280" alt="Git and GitHub" src="https://github.com/user-attachments/assets/557d7665-2bc3-4cd2-bdbf-1d3b0df043c3" />
   <br/><br/>
@@ -308,36 +322,86 @@ Ideas transformed into scalable products.
     <img src="https://img.shields.io/badge/View_Certificate-0d1117?style=for-the-badge&logo=git&logoColor=F05032" />
   </a>
 </td>
+
 </tr>
 </table>
+
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Oracle-Certified-F80000?style=for-the-badge&logo=oracle&logoColor=white&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/Google-Certified-4285F4?style=for-the-badge&logo=google&logoColor=white&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/Meta-Certified-0668E1?style=for-the-badge&logo=meta&logoColor=white&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/IBM-Certified-054ADA?style=for-the-badge&logo=ibm&logoColor=white&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/Microsoft-Certified-00A4EF?style=for-the-badge&logo=microsoft&logoColor=white&labelColor=0d1117" />
+
+<img src="https://img.shields.io/badge/Oracle-Certified-F80000?style=for-the-badge&logo=oracle&logoColor=white&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Google-Certified-4285F4?style=for-the-badge&logo=google&logoColor=white&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Meta-Certified-0668E1?style=for-the-badge&logo=meta&logoColor=white&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/IBM-Certified-054ADA?style=for-the-badge&logo=ibm&logoColor=white&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Microsoft-Certified-00A4EF?style=for-the-badge&logo=microsoft&logoColor=white&labelColor=0d1117" />
+
 </div>
 
 <br/>
 
 ---
-
 ## ◈ GitHub Performance
 
-<br/>
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=shadisbaih&theme=github-dark-blue&background=0d1117&border=21262d&stroke=58a6ff&ring=58a6ff&fire=ff7b72&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=8b949e&hide_border=true" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shadisbaih&layout=compact&theme=github_dark&bg_color=0d1117&border_color=21262d&title_color=58a6ff&text_color=c9d1d9&hide_border=true" width="45%" />
-</div>
+
+> Consistency, contribution patterns, and the technologies behind the work.
+
 <br/>
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shadisbaih&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff&hide_border=true&radius=8" width="92%" />
-</div>
+
+<!-- GitHub overview / contribution history -->
+<img
+  src="./profile-cards/overview.dark.svg"
+  width="92%"
+  alt="GitHub Overview"
+/>
+
+<br/><br/>
+
+<!-- Streak + contribution composition -->
+<img
+  src="./profile-cards/streak.dark.svg"
+  width="46%"
+  alt="GitHub Streak"
+/>
+
+<img
+  src="./profile-cards/contributions.dark.svg"
+  width="46%"
+  alt="GitHub Contributions"
+/>
+
+<br/><br/>
+
+<!-- Activity rhythm -->
+<img
+  src="./profile-cards/activity.dark.svg"
+  width="92%"
+  alt="GitHub Activity"
+/>
+
+<br/><br/>
+
+<!-- Language distribution -->
+<img
+  src="./profile-cards/languages.dark.svg"
+  width="92%"
+  alt="Languages"
+/>
+
 <br/>
+
+<sub>
+  Contribution history • streaks • activity rhythm • language distribution
+</sub>
+
+</div>
+
+<br/>
+
+---
 
 ---
 
@@ -352,8 +416,11 @@ Ideas transformed into scalable products.
 <br/>
 
 <div align="center">
+
 <table>
+
 <tr>
+
 <td width="50%" valign="top">
 
 <h3 align="center">👥 Engineering Leadership</h3>
@@ -368,6 +435,7 @@ Ideas transformed into scalable products.
 </p>
 
 </td>
+
 <td width="50%" valign="top">
 
 <h3 align="center">🏗️ System Design & Architecture</h3>
@@ -385,8 +453,11 @@ Ideas transformed into scalable products.
 </p>
 
 </td>
+
 </tr>
+
 <tr>
+
 <td width="50%" valign="top">
 
 <h3 align="center">📐 Product Engineering</h3>
@@ -402,6 +473,7 @@ Ideas transformed into scalable products.
 </p>
 
 </td>
+
 <td width="50%" valign="top">
 
 <h3 align="center">🧰 Software Engineering Practices</h3>
@@ -422,9 +494,12 @@ Ideas transformed into scalable products.
 </p>
 
 </td>
+
 </tr>
+
 <tr>
-  <td width="50%" valign="top">
+
+<td width="50%" valign="top">
 
 <h3 align="center">🧪 Quality Assurance & Testing</h3>
 
@@ -442,6 +517,7 @@ Ideas transformed into scalable products.
 </p>
 
 </td>
+
 <td colspan="2" align="center" valign="top">
 
 <h3 align="center">☁️ Cloud & DevOps</h3>
@@ -458,9 +534,13 @@ Ideas transformed into scalable products.
 <img src="https://img.shields.io/badge/Environment_Configuration-bc4c00?style=flat-square" alt="Environment Configuration"/>
 <img src="https://img.shields.io/badge/Deployment_Automation-bc4c00?style=flat-square" alt="Deployment Automation"/>
 </p>
+
 </td>
+
 </tr>
+
 </table>
+
 </div>
 
 <br/>
@@ -469,36 +549,48 @@ Ideas transformed into scalable products.
 
 ## ◈ Let's Connect
 
-<p align="center"><sub>Always open to interesting conversations, collaborations, and new opportunities.</sub></p>
+<p align="center">
+  <sub>Always open to interesting conversations, collaborations, and new opportunities.</sub>
+</p>
 
 <br/>
 
 <div align="center">
-  <a href="https://linkedin.com/in/shadi-sbaih" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn"/>
-  </a>
-  <a href="https://discord.gg/shadi.sbaih" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0d1117" alt="Discord"/>
-  </a>
-  <a href="mailto:shadisbaih.dev@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email"/>
-  </a>
-  <a href="https://shadisbaih.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white&labelColor=0d1117" alt="Portfolio"/>
-  </a>
-  <a href="https://facebook.com/Shadi.sbaih.18" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=0d1117" alt="Facebook"/>
-  </a>
-  <a href="https://instagram.com/i.shadi.s" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1117" alt="Instagram"/>
-  </a>
+
+<a href="https://linkedin.com/in/shadi-sbaih" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn"/>
+</a>
+
+<a href="https://discord.gg/shadi.sbaih" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0d1117" alt="Discord"/>
+</a>
+
+<a href="mailto:shadisbaih.dev@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Email"/>
+</a>
+
+<a href="https://shadisbaih.netlify.app" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white&labelColor=0d1117" alt="Portfolio"/>
+</a>
+
+<a href="https://facebook.com/Shadi.sbaih.18" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=0d1117" alt="Facebook"/>
+</a>
+
+<a href="https://instagram.com/i.shadi.s" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1117" alt="Instagram"/>
+</a>
+
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it,%20it%E2%80%99s%20bad.&author=Cory%20House" alt="Dev Quote" width="550"/>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it,%20it%E2%80%99s%20bad.&author=Cory%20House" alt="Dev Quote" width="550"/>
+
 </div>
+
 <br/>
 
 ---
