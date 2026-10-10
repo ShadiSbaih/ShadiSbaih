@@ -116,7 +116,7 @@ Ideas transformed into scalable products.
 
 ---
 
-## ◈ Technology Map
+## ◈  Tech Stack & Tools
 
 <div align="center">
 
@@ -145,90 +145,98 @@ Backend:
 
 ---
 
-### 🗣️ Languages
 
-<img src="https://skillicons.dev/icons?i=cpp,cs,javascript,typescript,python,java,go&theme=dark" />
+### 🗣️ Programming Languages
 
----
-
-### 🖥️ Frontend
-
-<img src="https://skillicons.dev/icons?i=,html,css,react,nextjs,angular,tailwind,mui,redux,pug&theme=dark" />
-
-<br/>
-
-<img width="48" height="48" alt="shadcn/ui" src="https://github.com/user-attachments/assets/a9954bc5-9c1a-4cef-ba52-171e5414b929" />
-<!-- <img width="48" height="48" alt="Chakra UI" src="https://github.com/user-attachments/assets/383093d5-f05a-4f7b-9e65-23acfe74e4ec" /> -->
-<img width="48" height="48" alt="Zustand" src="https://github.com/user-attachments/assets/28514fbc-8b8a-4bc6-9428-1258cd7aff97" />
-<img width="52" height="52" alt="TanStack Query" src="https://github.com/user-attachments/assets/7f46953b-5599-4728-89a7-ebad020057c5" />
-<!-- <img width="48" height="48" alt="React Hook Form and Zod" src="https://github.com/user-attachments/assets/15ebed64-a8e4-4822-803f-6cda88d63e66" /> -->
-<!-- <img width="48" height="48" alt="Axios" src="https://github.com/user-attachments/assets/acdb8628-1ea2-411b-9130-290956445f0f" /> -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=typescript,javascript,python,java,go,cpp,cs&theme=dark" alt="Programming Languages" />
+</p>
 
 ---
 
-### 📱 Mobile
+### 🎨 Frontend Development
 
-<img width="58" height="58" alt="React Native" src="https://github.com/user-attachments/assets/1ff92aae-a2e8-410f-abf2-c9198a0a4c93" />
-<img width="54" height="58" alt="Expo" src="https://github.com/user-attachments/assets/3334a89d-3065-4c7b-b78b-72e2a518b156" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,angular,tailwind,mui,pug&theme=dark" alt="Frontend Technologies" />
+</p>
 
----
-
-### ⚙️ Backend
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,spring,redis,rabbitmq&theme=dark" />
-
-<br/>
-
-<img width="45" height="45" alt="FastAPI" src="https://github.com/user-attachments/assets/dc4b5ce4-39cc-4906-93e2-c901ff7a14b4" />
-<img width="50" height="50" alt="Prisma" src="https://github.com/user-attachments/assets/c18d5396-b46b-47d9-a872-e61f50ecd7f8" />
-<img width="50" height="50" alt="TypeORM" src="https://github.com/user-attachments/assets/fa037acc-460a-4fa4-9c8b-fe874b9f28f0" />
-<img width="50" height="50" alt="Socket.io" src="https://github.com/user-attachments/assets/2f66ca7d-56c2-48e4-900d-d99a1d8d9d32" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=redux&theme=dark" alt="Redux" />
+  <img width="48" height="48" alt="shadcn/ui" src="https://github.com/user-attachments/assets/a9954bc5-9c1a-4cef-ba52-171e5414b929" />
+  <img width="48" height="48" alt="Zustand" src="https://github.com/user-attachments/assets/28514fbc-8b8a-4bc6-9428-1258cd7aff97" />
+  <img width="48" height="48" alt="TanStack Query" src="https://github.com/user-attachments/assets/7f46953b-5599-4728-89a7-ebad020057c5" />
+  <!-- <img width="48" height="48" alt="Chakra UI" src="https://github.com/user-attachments/assets/383093d5-f05a-4f7b-9e65-23acfe74e4ec" /> -->
+  <!-- <img width="48" height="48" alt="React Hook Form and Zod" src="https://github.com/user-attachments/assets/15ebed64-a8e4-4822-803f-6cda88d63e66" /> -->
+  <!-- <img width="48" height="48" alt="Axios" src="https://github.com/user-attachments/assets/acdb8628-1ea2-411b-9130-290956445f0f" /> -->
+</p>
 
 ---
 
-### 🗄️ Databases & Cloud
+### 📱 Mobile Development
 
-<img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,firebase,supabase,aws,azure,docker,vercel&theme=dark" />
-
-<br/>
-
-<!-- <img width="50" height="50" alt="Convex" src="https://github.com/user-attachments/assets/a16b3b0e-1d25-4393-bae9-d4b6e4bf12e2" /> -->
-<!-- <img width="50" height="50" alt="Render" src="https://github.com/user-attachments/assets/e0618ce0-eaf9-48be-8719-25624f874541" /> -->
+<p align="center">
+  <img width="48" height="48" alt="React Native" src="https://github.com/user-attachments/assets/1ff92aae-a2e8-410f-abf2-c9198a0a4c93" />
+  <img width="48" height="48" alt="Expo" src="https://github.com/user-attachments/assets/3334a89d-3065-4c7b-b78b-72e2a518b156" />
+</p>
 
 ---
 
-### 🧪 Testing & QA
+### ⚙️ Backend Development
 
-<img src="https://skillicons.dev/icons?i=jest,postman&theme=dark" />
-<img width="48" height="48" alt="Apidog" src="https://github.com/user-attachments/assets/d01ebccf-1e6b-4e66-bcb7-7774978f5efa" />
-<img width="48" height="48" alt="Testing Tool" src="https://github.com/user-attachments/assets/b68c0ff2-1e3e-4b0f-88c5-3aab8e79f78d" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,spring,redis,rabbitmq&theme=dark" alt="Backend Technologies" />
+</p>
 
-<br/>
-
-<img width="50" height="50" alt="Vitest" src="https://github.com/user-attachments/assets/4a4b760d-58e7-4c9a-98b2-d7d3a9927ae9" />
-<img width="50" height="50" alt="Cypress" src="https://github.com/user-attachments/assets/10abaf4e-0977-4552-bc01-d4a226960c45" />
-<img width="50" height="50" alt="Playwright" src="https://github.com/user-attachments/assets/15678136-b846-4df4-9cbd-36a6d852f172" />
-<img width="50" height="50" alt="Supertest" src="https://github.com/user-attachments/assets/8438f634-1c89-4d8c-b6b9-a16e6bb17027" />
-<img width="54" height="54" alt="Swagger" src="https://github.com/user-attachments/assets/4696d828-5716-41db-ac62-f85a89a1b493" />
-
----
-
-### 🔧 Dev Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,vscode,figma,npm,pnpm,linux,bash&theme=dark" />
-<img width="48" height="48" alt="Storybook" src="https://github.com/user-attachments/assets/8ad065a2-90c4-4368-bd80-7b55997287b7" />
-
-<br/>
-
-<img width="50" height="50" alt="Android Studio" src="https://github.com/user-attachments/assets/82066c35-a559-4d36-af11-b6b6436e6679" />
-<img width="50" height="50" alt="Jira" src="https://github.com/user-attachments/assets/a4fb4ce8-4956-4d75-b902-c6347a73bc77" />
-<img width="50" height="50" alt="Linear" src="https://github.com/user-attachments/assets/49909429-909f-4931-ba6c-c2b6d8c25554" />
+<p align="center">
+  <img width="48" height="48" alt="FastAPI" src="https://github.com/user-attachments/assets/dc4b5ce4-39cc-4906-93e2-c901ff7a14b4" />
+  <img width="48" height="48" alt="Prisma" src="https://github.com/user-attachments/assets/c18d5396-b46b-47d9-a872-e61f50ecd7f8" />
+  <img width="48" height="48" alt="TypeORM" src="https://github.com/user-attachments/assets/fa037acc-460a-4fa4-9c8b-fe874b9f28f0" />
+  <img width="48" height="48" alt="Socket.io" src="https://github.com/user-attachments/assets/2f66ca7d-56c2-48e4-900d-d99a1d8d9d32" />
+</p>
 
 ---
 
-</div>
+### 🗄️ Databases & Cloud Platforms
 
-<br/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,firebase,supabase,aws,azure,vercel&theme=dark" alt="Databases and Cloud Platforms" />
+  <!-- <img width="48" height="48" alt="Convex" src="https://github.com/user-attachments/assets/a16b3b0e-1d25-4393-bae9-d4b6e4bf12e2" /> -->
+  <!-- <img width="48" height="48" alt="Render" src="https://github.com/user-attachments/assets/e0618ce0-eaf9-48be-8719-25624f874541" /> -->
+</p>
+
+---
+
+### 🧪 Testing, QA & API Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=jest,postman&theme=dark" alt="Testing Tools" />
+  <img width="48" height="48" alt="Vitest" src="https://github.com/user-attachments/assets/4a4b760d-58e7-4c9a-98b2-d7d3a9927ae9" />
+  <img width="48" height="48" alt="Cypress" src="https://github.com/user-attachments/assets/10abaf4e-0977-4552-bc01-d4a226960c45" />
+  <img width="48" height="48" alt="Playwright" src="https://github.com/user-attachments/assets/15678136-b846-4df4-9cbd-36a6d852f172" />
+  <img width="48" height="48" alt="Supertest" src="https://github.com/user-attachments/assets/8438f634-1c89-4d8c-b6b9-a16e6bb17027" />
+</p>
+
+<p align="center">
+  <img width="48" height="48" alt="Apidog" src="https://github.com/user-attachments/assets/d01ebccf-1e6b-4e66-bcb7-7774978f5efa" />
+  <img width="48" height="48" alt="Swagger" src="https://github.com/user-attachments/assets/4696d828-5716-41db-ac62-f85a89a1b493" />
+  <img width="48" height="48" alt="Testing Tool" src="https://github.com/user-attachments/assets/b68c0ff2-1e3e-4b0f-88c5-3aab8e79f78d" />
+</p>
+
+---
+
+### 🔧 DevOps & Developer Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,linux,bash,npm,pnpm&theme=dark" alt="DevOps and Development Tools" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,figma&theme=dark" alt="Development and Design Tools" />
+  <img width="48" height="48" alt="Storybook" src="https://github.com/user-attachments/assets/8ad065a2-90c4-4368-bd80-7b55997287b7" />
+  <img width="48" height="48" alt="Android Studio" src="https://github.com/user-attachments/assets/82066c35-a559-4d36-af11-b6b6436e6679" />
+  <img width="48" height="48" alt="Jira" src="https://github.com/user-attachments/assets/a4fb4ce8-4956-4d75-b902-c6347a73bc77" />
+  <img width="48" height="48" alt="Linear" src="https://github.com/user-attachments/assets/49909429-909f-4931-ba6c-c2b6d8c25554" />
+</p>
 
 ---
 
