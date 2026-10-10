@@ -147,22 +147,22 @@ Backend:
 
 ### 🗣️ Languages
 
-<img src="https://skillicons.dev/icons?i=javascript,typescript,python,java,html,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=cpp,cs,javascript,typescript,python,java,go&theme=dark" />
 
 ---
 
 ### 🖥️ Frontend
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,angular,tailwind,mui,redux&theme=dark" />
+<img src="https://skillicons.dev/icons?i=,html,css,react,nextjs,angular,tailwind,mui,redux,pug&theme=dark" />
 
 <br/>
 
 <img width="48" height="48" alt="shadcn/ui" src="https://github.com/user-attachments/assets/a9954bc5-9c1a-4cef-ba52-171e5414b929" />
-<img width="48" height="48" alt="Chakra UI" src="https://github.com/user-attachments/assets/383093d5-f05a-4f7b-9e65-23acfe74e4ec" />
+<!-- <img width="48" height="48" alt="Chakra UI" src="https://github.com/user-attachments/assets/383093d5-f05a-4f7b-9e65-23acfe74e4ec" /> -->
 <img width="48" height="48" alt="Zustand" src="https://github.com/user-attachments/assets/28514fbc-8b8a-4bc6-9428-1258cd7aff97" />
 <img width="52" height="52" alt="TanStack Query" src="https://github.com/user-attachments/assets/7f46953b-5599-4728-89a7-ebad020057c5" />
-<img width="48" height="48" alt="React Hook Form and Zod" src="https://github.com/user-attachments/assets/15ebed64-a8e4-4822-803f-6cda88d63e66" />
-<img width="48" height="48" alt="Axios" src="https://github.com/user-attachments/assets/acdb8628-1ea2-411b-9130-290956445f0f" />
+<!-- <img width="48" height="48" alt="React Hook Form and Zod" src="https://github.com/user-attachments/assets/15ebed64-a8e4-4822-803f-6cda88d63e66" /> -->
+<!-- <img width="48" height="48" alt="Axios" src="https://github.com/user-attachments/assets/acdb8628-1ea2-411b-9130-290956445f0f" /> -->
 
 ---
 
@@ -175,7 +175,7 @@ Backend:
 
 ### ⚙️ Backend
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,spring&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,spring,redis,rabbitmq&theme=dark" />
 
 <br/>
 
@@ -188,12 +188,12 @@ Backend:
 
 ### 🗄️ Databases & Cloud
 
-<img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,firebase,supabase,aws,azure,docker,vercel,netlify&theme=dark" />
+<img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,firebase,supabase,aws,azure,docker,vercel&theme=dark" />
 
 <br/>
 
-<img width="50" height="50" alt="Convex" src="https://github.com/user-attachments/assets/a16b3b0e-1d25-4393-bae9-d4b6e4bf12e2" />
-<img width="50" height="50" alt="Render" src="https://github.com/user-attachments/assets/e0618ce0-eaf9-48be-8719-25624f874541" />
+<!-- <img width="50" height="50" alt="Convex" src="https://github.com/user-attachments/assets/a16b3b0e-1d25-4393-bae9-d4b6e4bf12e2" /> -->
+<!-- <img width="50" height="50" alt="Render" src="https://github.com/user-attachments/assets/e0618ce0-eaf9-48be-8719-25624f874541" /> -->
 
 ---
 
