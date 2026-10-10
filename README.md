@@ -114,13 +114,14 @@ Ideas transformed into scalable products.
 </tr>
 </table>
 
+
 ---
 
-## ◈  Tech Stack & Tools
+## ◈ Tech Stack & Tools
 
 <div align="center">
 
-> A practical toolkit spanning product interfaces, backend architecture, data, cloud, testing, and delivery.
+> A practical toolkit spanning product interfaces, backend architecture, AI engineering, data, cloud, testing, and delivery.
 
 <!--
 Parked / currently hidden technologies
@@ -144,7 +145,6 @@ Backend:
 <br/>
 
 ---
-
 
 ### 🗣️ Programming Languages
 
@@ -196,10 +196,24 @@ Backend:
 
 ---
 
+### 🤖 AI & LLM Engineering
+
+<p align="center">
+  <img width="48" height="48" alt="LangChain" src="https://unpkg.com/@lobehub/icons-static-svg@1.90.0/icons/langchain-color.svg" />
+  <img width="48" height="48" alt="LangGraph" src="https://unpkg.com/@lobehub/icons-static-svg@1.90.0/icons/langgraph-color.svg" />
+  <img width="48" height="48" alt="CrewAI" src="https://unpkg.com/@lobehub/icons-static-svg@1.90.0/icons/crewai-color.svg" />
+  <img width="48" height="48" alt="Model Context Protocol (MCP)" src="https://unpkg.com/@lobehub/icons-static-svg@1.90.0/icons/mcp.svg" />
+  <img width="48" height="48" alt="ChromaDB" src="https://github.com/chroma-core.png?size=96" />
+
+</p>
+
+
+---
+
 ### 🗄️ Databases & Cloud Platforms
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,firebase,supabase,aws,azure,vercel&theme=dark" alt="Databases and Cloud Platforms" />
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,firebase,supabase,aws,azure,cloudflare,vercel&theme=dark" alt="Databases and Cloud Platforms" />
   <!-- <img width="48" height="48" alt="Convex" src="https://github.com/user-attachments/assets/a16b3b0e-1d25-4393-bae9-d4b6e4bf12e2" /> -->
   <!-- <img width="48" height="48" alt="Render" src="https://github.com/user-attachments/assets/e0618ce0-eaf9-48be-8719-25624f874541" /> -->
 </p>
@@ -227,7 +241,7 @@ Backend:
 ### 🔧 DevOps & Developer Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,linux,bash,npm,pnpm&theme=dark" alt="DevOps and Development Tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,terraform,linux,bash,npm,pnpm&theme=dark" alt="DevOps and Development Tools" />
 </p>
 
 <p align="center">
@@ -238,7 +252,10 @@ Backend:
   <img width="48" height="48" alt="Linear" src="https://github.com/user-attachments/assets/49909429-909f-4931-ba6c-c2b6d8c25554" />
 </p>
 
+</div>
+
 ---
+
 
 ## ◈ Certifications & Achievements
 
