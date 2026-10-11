@@ -220,6 +220,7 @@ Backend:
 
 ---
 
+
 ### 🧪 Testing, QA & API Tools
 
 <p align="center">
@@ -228,12 +229,14 @@ Backend:
   <img width="48" height="48" alt="Cypress" src="https://github.com/user-attachments/assets/10abaf4e-0977-4552-bc01-d4a226960c45" />
   <img width="48" height="48" alt="Playwright" src="https://github.com/user-attachments/assets/15678136-b846-4df4-9cbd-36a6d852f172" />
   <img width="48" height="48" alt="Supertest" src="https://github.com/user-attachments/assets/8438f634-1c89-4d8c-b6b9-a16e6bb17027" />
-</p>
+  <img width="48" height="48" alt="k6" src="https://cdn.simpleicons.org/k6" />
 
-<p align="center">
-  <img width="48" height="48" alt="Apidog" src="https://github.com/user-attachments/assets/d01ebccf-1e6b-4e66-bcb7-7774978f5efa" />
-  <img width="48" height="48" alt="Swagger" src="https://github.com/user-attachments/assets/4696d828-5716-41db-ac62-f85a89a1b493" />
-  <img width="48" height="48" alt="Testing Tool" src="https://github.com/user-attachments/assets/b68c0ff2-1e3e-4b0f-88c5-3aab8e79f78d" />
+<img width="48" height="48" alt="REST Assured" src="https://github.com/rest-assured.png?size=96" />
+  <img width="48" height="48" alt="Maestro" src="https://raw.githubusercontent.com/mobile-dev-inc/counter-app-demo/main/assets/maestro.svg" />
+  <img width="48" height="48" alt="TestSprite" src="https://raw.githubusercontent.com/TestSprite/Docs/v1.0/favicon.svg" />
+  <img width="48" height="48" alt="MSW" src="https://github.com/mswjs.png" />
+  <img width="48" height="48" alt="Selenium" src="https://raw.githubusercontent.com/SeleniumHQ/selenium/trunk/common/images/selenium_logo_mark_green.svg" />
+  <img width="48" height="48" alt="TesterArmy e2e" src="https://tester.army/brand/svg/testerarmy-mark-color.svg" />
 </p>
 
 ---
