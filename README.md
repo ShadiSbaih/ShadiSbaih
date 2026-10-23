@@ -216,7 +216,7 @@ Backend:
 ### 🗄️ Databases & Cloud Platforms
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,firebase,supabase,aws,azure,cloudflare,vercel&theme=dark" alt="Databases and Cloud Platforms" />
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,firebase,supabase,appwrite,aws,azure,cloudflare,vercel&theme=dark" alt="Databases and Cloud Platforms" />
   <!-- <img width="48" height="48" alt="Convex" src="https://github.com/user-attachments/assets/a16b3b0e-1d25-4393-bae9-d4b6e4bf12e2" /> -->
   <!-- <img width="48" height="48" alt="Render" src="https://github.com/user-attachments/assets/e0618ce0-eaf9-48be-8719-25624f874541" /> -->
 </p>
