@@ -138,9 +138,9 @@ Desktop:
 
 Backend:
 <img src="https://skillicons.dev/icons?i=django,rust&theme=dark" />
-<img width="45" height="45" alt="Hono" src="https://github.com/user-attachments/assets/cc835db6-881f-454b-91d1-b03bdefe3f69" />
-<img width="50" height="50" alt="Gin" src="https://github.com/user-attachments/assets/f6f1df04-9bd5-4771-ba18-875877af582d" />
 -->
+
+
 
 <br/>
 
@@ -187,11 +187,14 @@ Backend:
   <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,spring,redis,rabbitmq&theme=dark" alt="Backend Technologies" />
 </p>
 
+
 <p align="center">
   <img width="48" height="48" alt="FastAPI" src="https://github.com/user-attachments/assets/dc4b5ce4-39cc-4906-93e2-c901ff7a14b4" />
   <img width="48" height="48" alt="Prisma" src="https://github.com/user-attachments/assets/c18d5396-b46b-47d9-a872-e61f50ecd7f8" />
   <img width="48" height="48" alt="TypeORM" src="https://github.com/user-attachments/assets/fa037acc-460a-4fa4-9c8b-fe874b9f28f0" />
   <img width="48" height="48" alt="Socket.io" src="https://github.com/user-attachments/assets/2f66ca7d-56c2-48e4-900d-d99a1d8d9d32" />
+  <img width="45" height="50" alt="Hono" src="https://github.com/user-attachments/assets/cc835db6-881f-454b-91d1-b03bdefe3f69" />
+<img width="45" height="50" alt="Gin" src="https://github.com/user-attachments/assets/7d4bb3cf-8edd-4193-89bd-f7bffc4935cc" />
 </p>
 
 ---
